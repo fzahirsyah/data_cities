@@ -1,0 +1,906 @@
+,subdivision_id,division_id,name,local_name
+0,56193,2,Banda Aceh,Banda Aceh
+1,56223,2,Bireun,Bireun
+2,56307,2,Kabupaten Aceh Barat,Kabupaten Aceh Barat
+3,56308,2,Kabupaten Aceh Barat Daya,Kabupaten Aceh Barat Daya
+4,56309,2,Kabupaten Aceh Besar,Kabupaten Aceh Besar
+5,56310,2,Kabupaten Aceh Jaya,Kabupaten Aceh Jaya
+6,56311,2,Kabupaten Aceh Selatan,Kabupaten Aceh Selatan
+7,56312,2,Kabupaten Aceh Singkil,Kabupaten Aceh Singkil
+8,56313,2,Kabupaten Aceh Tamiang,Kabupaten Aceh Tamiang
+9,56314,2,Kabupaten Aceh Tengah,Kabupaten Aceh Tengah
+10,56315,2,Kabupaten Aceh Tenggara,Kabupaten Aceh Tenggara
+11,56316,2,Kabupaten Aceh Timur,Kabupaten Aceh Timur
+12,56317,2,Kabupaten Aceh Utara,Kabupaten Aceh Utara
+13,56353,2,Kabupaten Bener Meriah,Kabupaten Bener Meriah
+14,56362,2,Kabupaten Bireuen,Kabupaten Bireuen
+15,56408,2,Kabupaten Gayo Lues,Kabupaten Gayo Lues
+16,56552,2,Kabupaten Nagan Raya,Kabupaten Nagan Raya
+17,56593,2,Kabupaten Pidie,Kabupaten Pidie
+18,56634,2,Kabupaten Simeulue,Kabupaten Simeulue
+19,56729,2,Kota Banda Aceh,Kota Banda Aceh
+20,56761,2,Kota Langsa,Kota Langsa
+21,56762,2,Kota Lhokseumawe,Kota Lhokseumawe
+22,56791,2,Kota Sabang,Kota Sabang
+23,56800,2,Kota Subulussalam,Kota Subulussalam
+24,56837,2,Langsa,Langsa
+25,56844,2,Lhokseumawe,Lhokseumawe
+26,56872,2,Meulaboh,Meulaboh
+27,56955,2,Reuleuet,Reuleuet
+28,56957,2,Sabang,Sabang
+29,56976,2,Sigli,Sigli
+30,56979,2,Sinabang,Sinabang
+31,56982,2,Singkil,Singkil
+32,56179,3,Amlapura,Amlapura
+33,56180,3,Amlapura city,Amlapura city
+34,56200,3,Banjar,Banjar
+35,56201,3,Banjar Wangsian,Banjar Wangsian
+36,56213,3,Bedugul,Bedugul
+37,56263,3,Denpasar,Denpasar
+38,56302,3,Jimbaran,Jimbaran
+39,56322,3,Kabupaten Badung,Kabupaten Badung
+40,56334,3,Kabupaten Bangli,Kabupaten Bangli
+41,56379,3,Kabupaten Buleleng,Kabupaten Buleleng
+42,56409,3,Kabupaten Gianyar,Kabupaten Gianyar
+43,56431,3,Kabupaten Jembrana,Kabupaten Jembrana
+44,56438,3,Kabupaten Karang Asem,Kabupaten Karang Asem
+45,56460,3,Kabupaten Klungkung,Kabupaten Klungkung
+46,56658,3,Kabupaten Tabanan,Kabupaten Tabanan
+47,56720,3,Klungkung,Klungkung
+48,56750,3,Kota Denpasar,Kota Denpasar
+49,56827,3,Kuta,Kuta
+50,56841,3,Legian,Legian
+51,56846,3,Lovina,Lovina
+52,56879,3,Munduk,Munduk
+53,56884,3,Negara,Negara
+54,56890,3,Nusa Dua,Nusa Dua
+55,56970,3,Seririt,Seririt
+56,56981,3,Singaraja,Singaraja
+57,57013,3,Tabanan,Tabanan
+58,57046,3,Ubud,Ubud
+59,56257,5,Curug,Curug
+60,56491,5,Kabupaten Lebak,Kabupaten Lebak
+61,56574,5,Kabupaten Pandeglang,Kabupaten Pandeglang
+62,56623,5,Kabupaten Serang,Kabupaten Serang
+63,56666,5,Kabupaten Tangerang,Kabupaten Tangerang
+64,56747,5,Kota Cilegon,Kota Cilegon
+65,56796,5,Kota Serang,Kota Serang
+66,56805,5,Kota Tangerang,Kota Tangerang
+67,56806,5,Kota Tangerang Selatan,Kota Tangerang Selatan
+68,56829,5,Labuan,Labuan
+69,56909,5,Pandeglang,Pandeglang
+70,56950,5,Rangkasbitung,Rangkasbitung
+71,56969,5,Serang,Serang
+72,56996,5,South Tangerang,South Tangerang
+73,57014,5,Tangerang,Tangerang
+74,56217,6,Bengkulu,Bengkulu
+75,56258,6,Curup,Curup
+76,56355,6,Kabupaten Bengkulu Selatan,Kabupaten Bengkulu Selatan
+77,56356,6,Kabupaten Bengkulu Tengah,Kabupaten Bengkulu Tengah
+78,56357,6,Kabupaten Bengkulu Utara,Kabupaten Bengkulu Utara
+79,56444,6,Kabupaten Kaur,Kabupaten Kaur
+80,56449,6,Kabupaten Kepahiang,Kabupaten Kepahiang
+81,56492,6,Kabupaten Lebong,Kabupaten Lebong
+82,56544,6,Kabupaten Mukomuko,Kabupaten Mukomuko
+83,56609,6,Kabupaten Rejang Lebong,Kabupaten Rejang Lebong
+84,56619,6,Kabupaten Seluma,Kabupaten Seluma
+85,56739,6,Kota Bengkulu,Kota Bengkulu
+86,56192,,Bambanglipuro,Bambanglipuro
+87,56204,,Bantul,Bantul
+88,56264,,Depok,Depok
+89,56276,,Gamping Lor,Gamping Lor
+90,56282,,Godean,Godean
+91,56338,,Kabupaten Bantul,Kabupaten Bantul
+92,56414,,Kabupaten Gunung Kidul,Kabupaten Gunung Kidul
+93,56473,,Kabupaten Kulon Progo,Kabupaten Kulon Progo
+94,56637,,Kabupaten Sleman,Kabupaten Sleman
+95,56702,,Kasihan,Kasihan
+96,56816,,Kota Yogyakarta,Kota Yogyakarta
+97,56868,,Melati,Melati
+98,56908,,Pandak,Pandak
+99,56943,,Pundong,Pundong
+100,56972,,Sewon,Sewon
+101,56988,,Sleman,Sleman
+102,56998,,Srandakan,Srandakan
+103,57061,,Yogyakarta,Yogyakarta
+104,56293,34,Jakarta,Jakarta
+105,56722,34,Kota Administrasi Jakarta Barat,Kota Administrasi Jakarta Barat
+106,56723,34,Kota Administrasi Jakarta Pusat,Kota Administrasi Jakarta Pusat
+107,56724,34,Kota Administrasi Jakarta Selatan,Kota Administrasi Jakarta Selatan
+108,56725,34,Kota Administrasi Jakarta Timur,Kota Administrasi Jakarta Timur
+109,56726,34,Kota Administrasi Jakarta Utara,Kota Administrasi Jakarta Utara
+110,56285,7,Gorontalo,Gorontalo
+111,56365,7,Kabupaten Boalemo,Kabupaten Boalemo
+112,56375,7,Kabupaten Bone Bolango,Kabupaten Bone Bolango
+113,56410,7,Kabupaten Gorontalo,Kabupaten Gorontalo
+114,56411,7,Kabupaten Gorontalo Utara,Kabupaten Gorontalo Utara
+115,56595,7,Kabupaten Pohuwato,Kabupaten Pohuwato
+116,56753,7,Kota Gorontalo,Kota Gorontalo
+117,56214,8,Bejubang Dua,Bejubang Dua
+118,56294,8,Jambi City,Jambi City
+119,56347,8,Kabupaten Batang Hari,Kabupaten Batang Hari
+120,56382,8,Kabupaten Bungo,Kabupaten Bungo
+121,56458,8,Kabupaten Kerinci,Kabupaten Kerinci
+122,56532,8,Kabupaten Merangin,Kabupaten Merangin
+123,56543,8,Kabupaten Muaro Jambi,Kabupaten Muaro Jambi
+124,56618,8,Kabupaten Sarolangun,Kabupaten Sarolangun
+125,56668,8,Kabupaten Tanjung Jabung Barat,Kabupaten Tanjung Jabung Barat
+126,56669,8,Kabupaten Tanjung Jabung Timur,Kabupaten Tanjung Jabung Timur
+127,56675,8,Kabupaten Tebo,Kabupaten Tebo
+128,56755,8,Kota Jambi,Kota Jambi
+129,56802,8,Kota Sungai Penuh,Kota Sungai Penuh
+130,56822,8,Kuala Tungkal,Kuala Tungkal
+131,56869,8,Mendaha,Mendaha
+132,56978,8,Simpang,Simpang
+133,57008,8,Sungai Penuh,Sungai Penuh
+134,56182,9,Arjawinangun,Arjawinangun
+135,56183,9,Astanajapura,Astanajapura
+136,56196,9,Bandung,Bandung
+137,56199,9,Banjar,Banjar
+138,56202,9,Banjaran,Banjaran
+139,56215,9,Bekasi,Bekasi
+140,56226,9,Bogor,Bogor
+141,56237,9,Caringin,Caringin
+142,56240,9,Ciamis,Ciamis
+143,56241,9,Ciampea,Ciampea
+144,56242,9,Cibinong,Cibinong
+145,56243,9,Cicurug,Cicurug
+146,56244,9,Cikampek,Cikampek
+147,56245,9,Cikarang,Cikarang
+148,56246,9,Cikupa,Cikupa
+149,56247,9,Cileungsir,Cileungsir
+150,56248,9,Cileunyi,Cileunyi
+151,56249,9,Cimahi,Cimahi
+152,56250,9,Ciputat,Ciputat
+153,56251,9,Ciranjang-hilir,Ciranjang-hilir
+154,56252,9,Cirebon,Cirebon
+155,56253,9,Citeureup,Citeureup
+156,56265,9,Depok,Depok
+157,56291,9,Indramayu,Indramayu
+158,56296,9,Jatibarang,Jatibarang
+159,56298,9,Jatiwangi,Jatiwangi
+160,56324,9,Kabupaten Bandung,Kabupaten Bandung
+161,56325,9,Kabupaten Bandung Barat,Kabupaten Bandung Barat
+162,56349,9,Kabupaten Bekasi,Kabupaten Bekasi
+163,56366,9,Kabupaten Bogor,Kabupaten Bogor
+164,56390,9,Kabupaten Ciamis,Kabupaten Ciamis
+165,56391,9,Kabupaten Cianjur,Kabupaten Cianjur
+166,56393,9,Kabupaten Cirebon,Kabupaten Cirebon
+167,56407,9,Kabupaten Garut,Kabupaten Garut
+168,56426,9,Kabupaten Indramayu,Kabupaten Indramayu
+169,56440,9,Kabupaten Karawang,Kabupaten Karawang
+170,56474,9,Kabupaten Kuningan,Kabupaten Kuningan
+171,56508,9,Kabupaten Majalengka,Kabupaten Majalengka
+172,56575,9,Kabupaten Pangandaran,Kabupaten Pangandaran
+173,56606,9,Kabupaten Purwakarta,Kabupaten Purwakarta
+174,56644,9,Kabupaten Subang,Kabupaten Subang
+175,56645,9,Kabupaten Sukabumi,Kabupaten Sukabumi
+176,56654,9,Kabupaten Sumedang,Kabupaten Sumedang
+177,56674,9,Kabupaten Tasikmalaya,Kabupaten Tasikmalaya
+178,56698,9,Karangampel,Karangampel
+179,56700,9,Karangsembung,Karangsembung
+180,56704,9,Kawalu,Kawalu
+181,56718,9,Klangenan,Klangenan
+182,56731,9,Kota Bandung,Kota Bandung
+183,56732,9,Kota Banjar,Kota Banjar
+184,56738,9,Kota Bekasi,Kota Bekasi
+185,56744,9,Kota Bogor,Kota Bogor
+186,56748,9,Kota Cimahi,Kota Cimahi
+187,56749,9,Kota Cirebon,Kota Cirebon
+188,56751,9,Kota Depok,Kota Depok
+189,56801,9,Kota Sukabumi,Kota Sukabumi
+190,56809,9,Kota Tasikmalaya,Kota Tasikmalaya
+191,56819,9,Kresek,Kresek
+192,56825,9,Kuningan,Kuningan
+193,56842,9,Lembang,Lembang
+194,56852,9,Majalengka,Majalengka
+195,56861,9,Margahayukencana,Margahayukencana
+196,56886,9,Ngawi,Ngawi
+197,56892,9,Padalarang,Padalarang
+198,56899,9,Palimanan,Palimanan
+199,56902,9,Pamanukan,Pamanukan
+200,56904,9,Pameungpeuk,Pameungpeuk
+201,56905,9,Pamulang,Pamulang
+202,56918,9,Parung,Parung
+203,56919,9,Pasarkemis,Pasarkemis
+204,56920,9,Paseh,Paseh
+205,56928,9,Pelabuhanratu,Pelabuhanratu
+206,56934,9,Plumbon,Plumbon
+207,56945,9,Purwakarta,Purwakarta
+208,56948,9,Rajapolah,Rajapolah
+209,56954,9,Rengasdengklok,Rengasdengklok
+210,56962,9,Sawangan,Sawangan
+211,56968,9,Sepatan,Sepatan
+212,56971,9,Serpong,Serpong
+213,56980,9,Singaparna,Singaparna
+214,56994,9,Soreang,Soreang
+215,57001,9,Sukabumi,Sukabumi
+216,57003,9,Sumber,Sumber
+217,57005,9,Sumedang,Sumedang
+218,57006,9,Sumedang Utara,Sumedang Utara
+219,57025,9,Tasikmalaya,Tasikmalaya
+220,57030,9,Teluknaga,Teluknaga
+221,57050,9,Wanaraja,Wanaraja
+222,57056,9,Weru,Weru
+223,56174,10,Adiwerna,Adiwerna
+224,56176,10,Ambarawa,Ambarawa
+225,56186,10,Baekrajan,Baekrajan
+226,56187,10,Baki,Baki
+227,56189,10,Balapulang,Balapulang
+228,56205,10,Banyumas,Banyumas
+229,56209,10,Batang,Batang
+230,56211,10,Baturaden,Baturaden
+231,56225,10,Blora,Blora
+232,56230,10,Boyolali,Boyolali
+233,56232,10,Buaran,Buaran
+234,56235,10,Bulakamba,Bulakamba
+235,56236,10,Candi Prambanan,Candi Prambanan
+236,56238,10,Ceper,Ceper
+237,56239,10,Cepu,Cepu
+238,56255,10,Colomadu,Colomadu
+239,56256,10,Comal,Comal
+240,56260,10,Delanggu,Delanggu
+241,56262,10,Demak,Demak
+242,56269,10,Dukuhturi,Dukuhturi
+243,56277,10,Gatak,Gatak
+244,56278,10,Gebog,Gebog
+245,56283,10,Gombong,Gombong
+246,56288,10,Grogol,Grogol
+247,56289,10,Gunung Kendil,Gunung Kendil
+248,56295,10,Jaten,Jaten
+249,56297,10,Jatiroto,Jatiroto
+250,56300,10,Jekulo,Jekulo
+251,56303,10,Jogonalan,Jogonalan
+252,56305,10,Juwana,Juwana
+253,56336,10,Kabupaten Banjarnegara,Kabupaten Banjarnegara
+254,56339,10,Kabupaten Banyumas,Kabupaten Banyumas
+255,56346,10,Kabupaten Batang,Kabupaten Batang
+256,56364,10,Kabupaten Blora,Kabupaten Blora
+257,56377,10,Kabupaten Boyolali,Kabupaten Boyolali
+258,56378,10,Kabupaten Brebes,Kabupaten Brebes
+259,56392,10,Kabupaten Cilacap,Kabupaten Cilacap
+260,56397,10,Kabupaten Demak,Kabupaten Demak
+261,56413,10,Kabupaten Grobogan,Kabupaten Grobogan
+262,56433,10,Kabupaten Jepara,Kabupaten Jepara
+263,56439,10,Kabupaten Karanganyar,Kabupaten Karanganyar
+264,56445,10,Kabupaten Kebumen,Kabupaten Kebumen
+265,56448,10,Kabupaten Kendal,Kabupaten Kendal
+266,56459,10,Kabupaten Klaten,Kabupaten Klaten
+267,56472,10,Kabupaten Kudus,Kabupaten Kudus
+268,56505,10,Kabupaten Magelang,Kabupaten Magelang
+269,56583,10,Kabupaten Pati,Kabupaten Pati
+270,56585,10,Kabupaten Pekalongan,Kabupaten Pekalongan
+271,56587,10,Kabupaten Pemalang,Kabupaten Pemalang
+272,56605,10,Kabupaten Purbalingga,Kabupaten Purbalingga
+273,56607,10,Kabupaten Purworejo,Kabupaten Purworejo
+274,56610,10,Kabupaten Rembang,Kabupaten Rembang
+275,56620,10,Kabupaten Semarang,Kabupaten Semarang
+276,56643,10,Kabupaten Sragen,Kabupaten Sragen
+277,56647,10,Kabupaten Sukoharjo,Kabupaten Sukoharjo
+278,56676,10,Kabupaten Tegal,Kabupaten Tegal
+279,56679,10,Kabupaten Temanggung,Kabupaten Temanggung
+280,56692,10,Kabupaten Wonogiri,Kabupaten Wonogiri
+281,56693,10,Kabupaten Wonosobo,Kabupaten Wonosobo
+282,56699,10,Karanganom,Karanganom
+283,56701,10,Kartasura,Kartasura
+284,56706,10,Kebonarun,Kebonarun
+285,56709,10,Kedungwuni,Kedungwuni
+286,56715,10,Ketanggungan,Ketanggungan
+287,56719,10,Klaten,Klaten
+288,56765,10,Kota Magelang,Kota Magelang
+289,56786,10,Kota Pekalongan,Kota Pekalongan
+290,56792,10,Kota Salatiga,Kota Salatiga
+291,56795,10,Kota Semarang,Kota Semarang
+292,56804,10,Kota Surakarta,Kota Surakarta
+293,56811,10,Kota Tegal,Kota Tegal
+294,56821,10,Kroya,Kroya
+295,56824,10,Kudus,Kudus
+296,56828,10,Kutoarjo,Kutoarjo
+297,56838,10,Lasem,Lasem
+298,56840,10,Lebaksiu,Lebaksiu
+299,56851,10,Magelang,Magelang
+300,56853,10,Majenang,Majenang
+301,56862,10,Margasari,Margasari
+302,56870,10,Mertoyudan,Mertoyudan
+303,56873,10,Mlonggo,Mlonggo
+304,56877,10,Mranggen,Mranggen
+305,56880,10,Muntilan,Muntilan
+306,56887,10,Ngemplak,Ngemplak
+307,56922,10,Pati,Pati
+308,56924,10,Pecangaan,Pecangaan
+309,56925,10,Pekalongan,Pekalongan
+310,56929,10,Pemalang,Pemalang
+311,56944,10,Purbalingga,Purbalingga
+312,56946,10,Purwodadi,Purwodadi
+313,56947,10,Purwokerto,Purwokerto
+314,56949,10,Randudongkal,Randudongkal
+315,56953,10,Rembangan,Rembangan
+316,56958,10,Salatiga,Salatiga
+317,56964,10,Selogiri,Selogiri
+318,56965,10,Semarang,Semarang
+319,56974,10,Sidareja,Sidareja
+320,56987,10,Slawi,Slawi
+321,56991,10,Sokaraja,Sokaraja
+322,56997,10,Sragen,Sragen
+323,57012,10,Surakarta,Surakarta
+324,57024,10,Tarub,Tarub
+325,57026,10,Tayu,Tayu
+326,57028,10,Tegal,Tegal
+327,57040,10,Trucuk,Trucuk
+328,57047,10,Ungaran,Ungaran
+329,57051,10,Wangon,Wangon
+330,57053,10,Wedi,Wedi
+331,57054,10,Welahan,Welahan
+332,57055,10,Weleri,Weleri
+333,57057,10,Wiradesa,Wiradesa
+334,57059,10,Wonopringgo,Wonopringgo
+335,57060,10,Wonosobo,Wonosobo
+336,56185,11,Babat,Babat
+337,56191,11,Balung,Balung
+338,56197,11,Bangil,Bangil
+339,56198,11,Bangkalan,Bangkalan
+340,56206,11,Banyuwangi,Banyuwangi
+341,56210,11,Batu,Batu
+342,56219,11,Besuki,Besuki
+343,56224,11,Blitar,Blitar
+344,56227,11,Bojonegoro,Bojonegoro
+345,56228,11,Bondowoso,Bondowoso
+346,56231,11,Boyolangu,Boyolangu
+347,56233,11,Buduran,Buduran
+348,56259,11,Dampit,Dampit
+349,56266,11,Diwek,Diwek
+350,56268,11,Driyorejo,Driyorejo
+351,56274,11,Gambiran Satu,Gambiran Satu
+352,56275,11,Gampengrejo,Gampengrejo
+353,56279,11,Gedangan,Gedangan
+354,56280,11,Genteng,Genteng
+355,56284,11,Gongdanglegi Kulon,Gongdanglegi Kulon
+356,56286,11,Gresik,Gresik
+357,56287,11,Gresik Regency,Gresik Regency
+358,56301,11,Jember,Jember
+359,56304,11,Jombang,Jombang
+360,56333,11,Kabupaten Bangkalan,Kabupaten Bangkalan
+361,56340,11,Kabupaten Banyuwangi,Kabupaten Banyuwangi
+362,56363,11,Kabupaten Blitar,Kabupaten Blitar
+363,56367,11,Kabupaten Bojonegoro,Kabupaten Bojonegoro
+364,56373,11,Kabupaten Bondowoso,Kabupaten Bondowoso
+365,56430,11,Kabupaten Jember,Kabupaten Jember
+366,56434,11,Kabupaten Jombang,Kabupaten Jombang
+367,56446,11,Kabupaten Kediri,Kabupaten Kediri
+368,56483,11,Kabupaten Lamongan,Kabupaten Lamongan
+369,56500,11,Kabupaten Lumajang,Kabupaten Lumajang
+370,56504,11,Kabupaten Madiun,Kabupaten Madiun
+371,56506,11,Kabupaten Magetan,Kabupaten Magetan
+372,56511,11,Kabupaten Malang,Kabupaten Malang
+373,56540,11,Kabupaten Mojokerto,Kabupaten Mojokerto
+374,56557,11,Kabupaten Nganjuk,Kabupaten Nganjuk
+375,56558,11,Kabupaten Ngawi,Kabupaten Ngawi
+376,56568,11,Kabupaten Pacitan,Kabupaten Pacitan
+377,56573,11,Kabupaten Pamekasan,Kabupaten Pamekasan
+378,56582,11,Kabupaten Pasuruan,Kabupaten Pasuruan
+379,56597,11,Kabupaten Ponorogo,Kabupaten Ponorogo
+380,56600,11,Kabupaten Probolinggo,Kabupaten Probolinggo
+381,56616,11,Kabupaten Sampang,Kabupaten Sampang
+382,56629,11,Kabupaten Sidoarjo,Kabupaten Sidoarjo
+383,56636,11,Kabupaten Situbondo,Kabupaten Situbondo
+384,56655,11,Kabupaten Sumenep,Kabupaten Sumenep
+385,56685,11,Kabupaten Trenggalek,Kabupaten Trenggalek
+386,56686,11,Kabupaten Tuban,Kabupaten Tuban
+387,56688,11,Kabupaten Tulungagung,Kabupaten Tulungagung
+388,56696,11,Kalianget,Kalianget
+389,56697,11,Kamal,Kamal
+390,56705,11,Kebomas,Kebomas
+391,56707,11,Kediri,Kediri
+392,56708,11,Kedungwaru,Kedungwaru
+393,56711,11,Kencong,Kencong
+394,56713,11,Kepanjen,Kepanjen
+395,56714,11,Kertosono,Kertosono
+396,56736,11,Kota Batu,Kota Batu
+397,56743,11,Kota Blitar,Kota Blitar
+398,56757,11,Kota Kediri,Kota Kediri
+399,56764,11,Kota Madiun,Kota Madiun
+400,56767,11,Kota Malang,Kota Malang
+401,56772,11,Kota Mojokerto,Kota Mojokerto
+402,56784,11,Kota Pasuruan,Kota Pasuruan
+403,56790,11,Kota Probolinggo,Kota Probolinggo
+404,56803,11,Kota Surabaya,Kota Surabaya
+405,56818,11,Kraksaan,Kraksaan
+406,56820,11,Krian,Krian
+407,56836,11,Lamongan,Lamongan
+408,56839,11,Lawang,Lawang
+409,56848,11,Lumajang,Lumajang
+410,56850,11,Madiun,Madiun
+411,56856,11,Malang,Malang
+412,56874,11,Mojoagung,Mojoagung
+413,56875,11,Mojokerto,Mojokerto
+414,56878,11,Muncar,Muncar
+415,56885,11,Nganjuk,Nganjuk
+416,56888,11,Ngoro,Ngoro
+417,56889,11,Ngunut,Ngunut
+418,56891,11,Paciran,Paciran
+419,56896,11,Pakisaji,Pakisaji
+420,56903,11,Pamekasan,Pamekasan
+421,56906,11,Panarukan,Panarukan
+422,56907,11,Pandaan,Pandaan
+423,56913,11,Panji,Panji
+424,56915,11,Pare,Pare
+425,56921,11,Pasuruan,Pasuruan
+426,56936,11,Ponorogo,Ponorogo
+427,56941,11,Prigen,Prigen
+428,56942,11,Probolinggo,Probolinggo
+429,56960,11,Sampang,Sampang
+430,56975,11,Sidoarjo,Sidoarjo
+431,56983,11,Singojuruh,Singojuruh
+432,56984,11,Singosari,Singosari
+433,56986,11,Situbondo,Situbondo
+434,56992,11,Soko,Soko
+435,56999,11,Srono,Srono
+436,57004,11,Sumberpucung,Sumberpucung
+437,57007,11,Sumenep,Sumenep
+438,57011,11,Surabaya,Surabaya
+439,57015,11,Tanggul,Tanggul
+440,57016,11,Tanggulangin,Tanggulangin
+441,57039,11,Trenggalek,Trenggalek
+442,57042,11,Tuban,Tuban
+443,57044,11,Tulangan Utara,Tulangan Utara
+444,57045,11,Tulungagung,Tulungagung
+445,57058,11,Wongsorejo,Wongsorejo
+446,150090,12,Bengkayang,Bengkayang
+447,150091,12,Kapuas Hulu,Kapuas Hulu
+448,150092,12,Kayong Utara,Kayong Utara
+449,150093,12,Ketapang,Ketapang
+450,150094,12,Kubu Raya,Kubu Raya
+451,150095,12,Landak,Landak
+452,150096,12,Manismata,Manismata
+453,150097,12,Melawi,Melawi
+454,150098,12,Mempawah,Mempawah
+455,150099,12,Pemangkat,Pemangkat
+456,150100,12,Pontianak,Pontianak
+457,150101,12,Sambas,Sambas
+458,150102,12,Sanggau,Sanggau
+459,150103,12,Sekadau,Sekadau
+460,150104,12,Singkawang,Singkawang
+461,150105,12,Sintang,Sintang
+462,56181,13,Amuntai,Amuntai
+463,56203,13,Banjarmasin,Banjarmasin
+464,56207,13,Barabai,Barabai
+465,56323,13,Kabupaten Balangan,Kabupaten Balangan
+466,56335,13,Kabupaten Banjar,Kabupaten Banjar
+467,56341,13,Kabupaten Barito Kuala,Kabupaten Barito Kuala
+468,56420,13,Kabupaten Hulu Sungai Selatan,Kabupaten Hulu Sungai Selatan
+469,56421,13,Kabupaten Hulu Sungai Tengah,Kabupaten Hulu Sungai Tengah
+470,56422,13,Kabupaten Hulu Sungai Utara,Kabupaten Hulu Sungai Utara
+471,56468,13,Kabupaten Kota Baru,Kabupaten Kota Baru
+472,56657,13,Kabupaten Tabalong,Kabupaten Tabalong
+473,56663,13,Kabupaten Tanah Bumbu,Kabupaten Tanah Bumbu
+474,56665,13,Kabupaten Tanah Laut,Kabupaten Tanah Laut
+475,56673,13,Kabupaten Tapin,Kabupaten Tapin
+476,56733,13,Kota Banjar Baru,Kota Banjar Baru
+477,56734,13,Kota Banjarmasin,Kota Banjarmasin
+478,56864,13,Martapura,Martapura
+479,56342,14,Kabupaten Barito Selatan,Kabupaten Barito Selatan
+480,56343,14,Kabupaten Barito Timur,Kabupaten Barito Timur
+481,56344,14,Kabupaten Barito Utara,Kabupaten Barito Utara
+482,56415,14,Kabupaten Gunung Mas,Kabupaten Gunung Mas
+483,56437,14,Kabupaten Kapuas,Kabupaten Kapuas
+484,56443,14,Kabupaten Katingan,Kabupaten Katingan
+485,56469,14,Kabupaten Kotawaringin Barat,Kabupaten Kotawaringin Barat
+486,56470,14,Kabupaten Kotawaringin Timur,Kabupaten Kotawaringin Timur
+487,56482,14,Kabupaten Lamandau,Kabupaten Lamandau
+488,56547,14,Kabupaten Murung Raya,Kabupaten Murung Raya
+489,56601,14,Kabupaten Pulang Pisau,Kabupaten Pulang Pisau
+490,56625,14,Kabupaten Seruyan,Kabupaten Seruyan
+491,56646,14,Kabupaten Sukamara,Kabupaten Sukamara
+492,56777,14,Kota Palangka Raya,Kota Palangka Raya
+493,56823,14,Kualakapuas,Kualakapuas
+494,56897,14,Palangkaraya,Palangkaraya
+495,56911,14,Pangkalanbuun,Pangkalanbuun
+496,56961,14,Sampit,Sampit
+497,56190,15,Balikpapan,Balikpapan
+498,56229,15,Bontang,Bontang
+499,56254,15,City of Balikpapan,City of Balikpapan
+500,56358,15,Kabupaten Berau,Kabupaten Berau
+501,56476,15,Kabupaten Kutai Barat,Kabupaten Kutai Barat
+502,56477,15,Kabupaten Kutai Kartanegara,Kabupaten Kutai Kartanegara
+503,56478,15,Kabupaten Kutai Timur,Kabupaten Kutai Timur
+504,56507,15,Kabupaten Mahakam Hulu,Kabupaten Mahakam Hulu
+505,56581,15,Kabupaten Paser,Kabupaten Paser
+506,56588,15,Kabupaten Penajam Paser Utara,Kabupaten Penajam Paser Utara
+507,56728,15,Kota Balikpapan,Kota Balikpapan
+508,56745,15,Kota Bontang,Kota Bontang
+509,56793,15,Kota Samarinda,Kota Samarinda
+510,56845,15,Loa Janan,Loa Janan
+511,56959,15,Samarinda,Samarinda
+512,56381,16,Kabupaten Bulungan,Kabupaten Bulungan
+513,56512,16,Kabupaten Malinau,Kabupaten Malinau
+514,56562,16,Kabupaten Nunukan,Kabupaten Nunukan
+515,56661,16,Kabupaten Tana Tidung,Kabupaten Tana Tidung
+516,57019,16,Tanjung Selor,Tanjung Selor
+517,57023,16,Tarakan,Tarakan
+518,56329,4,Kabupaten Bangka,Kabupaten Bangka
+519,56330,4,Kabupaten Bangka Barat,Kabupaten Bangka Barat
+520,56331,4,Kabupaten Bangka Selatan,Kabupaten Bangka Selatan
+521,56332,4,Kabupaten Bangka Tengah,Kabupaten Bangka Tengah
+522,56350,4,Kabupaten Belitung,Kabupaten Belitung
+523,56351,4,Kabupaten Belitung Timur,Kabupaten Belitung Timur
+524,56781,4,Kota Pangkal Pinang,Kota Pangkal Pinang
+525,56859,4,Manggar,Manggar
+526,56881,4,Muntok,Muntok
+527,56912,4,Pangkalpinang,Pangkalpinang
+528,57009,4,Sungailiat,Sungailiat
+529,57017,4,Tanjung Pandan,Tanjung Pandan
+530,56361,17,Kabupaten Bintan,Kabupaten Bintan
+531,56441,17,Kabupaten Karimun,Kabupaten Karimun
+532,56450,17,Kabupaten Kepulauan Anambas,Kabupaten Kepulauan Anambas
+533,56495,17,Kabupaten Lingga,Kabupaten Lingga
+534,56554,17,Kabupaten Natuna,Kabupaten Natuna
+535,56716,17,Kijang,Kijang
+536,56735,17,Kota Batam,Kota Batam
+537,56808,17,Kota Tanjung Pinang,Kota Tanjung Pinang
+538,57018,17,Tanjung Pinang,Tanjung Pinang
+539,56195,18,Bandar Lampung,Bandar Lampung
+540,56484,18,Kabupaten Lampung Barat,Kabupaten Lampung Barat
+541,56485,18,Kabupaten Lampung Selatan,Kabupaten Lampung Selatan
+542,56486,18,Kabupaten Lampung Tengah,Kabupaten Lampung Tengah
+543,56487,18,Kabupaten Lampung Timur,Kabupaten Lampung Timur
+544,56488,18,Kabupaten Lampung Utara,Kabupaten Lampung Utara
+545,56534,18,Kabupaten Mesuji,Kabupaten Mesuji
+546,56590,18,Kabupaten Pesawaran,Kabupaten Pesawaran
+547,56591,18,Kabupaten Pesisir Barat,Kabupaten Pesisir Barat
+548,56599,18,Kabupaten Pringsewu,Kabupaten Pringsewu
+549,56667,18,Kabupaten Tanggamus,Kabupaten Tanggamus
+550,56687,18,Kabupaten Tulangbawang,Kabupaten Tulangbawang
+551,56691,18,Kabupaten Way Kanan,Kabupaten Way Kanan
+552,56730,18,Kota Bandar Lampung,Kota Bandar Lampung
+553,56771,18,Kota Metro,Kota Metro
+554,56817,18,Kotabumi,Kotabumi
+555,56871,18,Metro,Metro
+556,57031,18,Terbanggi Besar,Terbanggi Besar
+557,56175,19,Amahai,Amahai
+558,56178,19,Ambon,Ambon
+559,56384,19,Kabupaten Buru,Kabupaten Buru
+560,56385,19,Kabupaten Buru Selatan,Kabupaten Buru Selatan
+561,56451,19,Kabupaten Kepulauan Aru,Kabupaten Kepulauan Aru
+562,56513,19,Kabupaten Maluku Barat Daya,Kabupaten Maluku Barat Daya
+563,56514,19,Kabupaten Maluku Tengah,Kabupaten Maluku Tengah
+564,56515,19,Kabupaten Maluku Tenggara,Kabupaten Maluku Tenggara
+565,56516,19,Kabupaten Maluku Tenggara Barat,Kabupaten Maluku Tenggara Barat
+566,56621,19,Kabupaten Seram Bagian Barat,Kabupaten Seram Bagian Barat
+567,56622,19,Kabupaten Seram Bagian Timur,Kabupaten Seram Bagian Timur
+568,56727,19,Kota Ambon,Kota Ambon
+569,56815,19,Kota Tual,Kota Tual
+570,57041,19,Tual,Tual
+571,56271,20,East Halmahera Regency,East Halmahera Regency
+572,56416,20,Kabupaten Halmahera Barat,Kabupaten Halmahera Barat
+573,56417,20,Kabupaten Halmahera Selatan,Kabupaten Halmahera Selatan
+574,56418,20,Kabupaten Halmahera Tengah,Kabupaten Halmahera Tengah
+575,56419,20,Kabupaten Halmahera Utara,Kabupaten Halmahera Utara
+576,56455,20,Kabupaten Kepulauan Sula,Kabupaten Kepulauan Sula
+577,56602,20,Kabupaten Pulau Morotai,Kabupaten Pulau Morotai
+578,56603,20,Kabupaten Pulau Taliabu,Kabupaten Pulau Taliabu
+579,56812,20,Kota Ternate,Kota Ternate
+580,56813,20,Kota Tidore Kepulauan,Kota Tidore Kepulauan
+581,56990,20,Sofifi,Sofifi
+582,57032,20,Ternate,Ternate
+583,57033,20,Tobelo,Tobelo
+584,56221,21,Bima,Bima
+585,56267,21,Dompu,Dompu
+586,56281,21,Gili Air,Gili Air
+587,56360,21,Kabupaten Bima,Kabupaten Bima
+588,56400,21,Kabupaten Dompu,Kabupaten Dompu
+589,56496,21,Kabupaten Lombok Barat,Kabupaten Lombok Barat
+590,56497,21,Kabupaten Lombok Tengah,Kabupaten Lombok Tengah
+591,56498,21,Kabupaten Lombok Timur,Kabupaten Lombok Timur
+592,56499,21,Kabupaten Lombok Utara,Kabupaten Lombok Utara
+593,56652,21,Kabupaten Sumbawa,Kabupaten Sumbawa
+594,56653,21,Kabupaten Sumbawa Barat,Kabupaten Sumbawa Barat
+595,56740,21,Kota Bima,Kota Bima
+596,56769,21,Kota Mataram,Kota Mataram
+597,56831,21,Labuan Lombok,Labuan Lombok
+598,56843,21,Lembar,Lembar
+599,56865,21,Mataram,Mataram
+600,56931,21,Pemenang,Pemenang
+601,56938,21,Pototano,Pototano
+602,56940,21,Praya,Praya
+603,56966,21,Senggigi,Senggigi
+604,57002,21,Sumbawa Besar,Sumbawa Besar
+605,56184,22,Atambua,Atambua
+606,56272,22,Ende,Ende
+607,56319,22,Kabupaten Alor,Kabupaten Alor
+608,56352,22,Kabupaten Belu,Kabupaten Belu
+609,56403,22,Kabupaten Ende,Kabupaten Ende
+610,56406,22,Kabupaten Flores Timur,Kabupaten Flores Timur
+611,56475,22,Kabupaten Kupang,Kabupaten Kupang
+612,56493,22,Kabupaten Lembata,Kabupaten Lembata
+613,56510,22,Kabupaten Malaka,Kabupaten Malaka
+614,56524,22,Kabupaten Manggarai,Kabupaten Manggarai
+615,56525,22,Kabupaten Manggarai Barat,Kabupaten Manggarai Barat
+616,56526,22,Kabupaten Manggarai Timur,Kabupaten Manggarai Timur
+617,56553,22,Kabupaten Nagekeo,Kabupaten Nagekeo
+618,56556,22,Kabupaten Ngada,Kabupaten Ngada
+619,56613,22,Kabupaten Rote Ndao,Kabupaten Rote Ndao
+620,56614,22,Kabupaten Sabu Raijua,Kabupaten Sabu Raijua
+621,56632,22,Kabupaten Sikka,Kabupaten Sikka
+622,56648,22,Kabupaten Sumba Barat,Kabupaten Sumba Barat
+623,56649,22,Kabupaten Sumba Barat Daya,Kabupaten Sumba Barat Daya
+624,56650,22,Kabupaten Sumba Tengah,Kabupaten Sumba Tengah
+625,56651,22,Kabupaten Sumba Timur,Kabupaten Sumba Timur
+626,56680,22,Kabupaten Timor Tengah Selatan,Kabupaten Timor Tengah Selatan
+627,56681,22,Kabupaten Timor Tengah Utara,Kabupaten Timor Tengah Utara
+628,56710,22,Kefamenanu,Kefamenanu
+629,56721,22,Komodo,Komodo
+630,56760,22,Kota Kupang,Kota Kupang
+631,56826,22,Kupang,Kupang
+632,56830,22,Labuan Bajo,Labuan Bajo
+633,56866,22,Maumere,Maumere
+634,56883,22,Naisano Dua,Naisano Dua
+635,56956,22,Ruteng,Ruteng
+636,56989,22,Soe,Soe
+637,57048,22,Waingapu,Waingapu
+638,56173,23,Abepura,Abepura
+639,56220,23,Biak,Biak
+640,56292,23,Insrom,Insrom
+641,56299,23,Jayapura,Jayapura
+642,56321,23,Kabupaten Asmat,Kabupaten Asmat
+643,56359,23,Kabupaten Biak Numfor,Kabupaten Biak Numfor
+644,56376,23,Kabupaten Boven Digoel,Kabupaten Boven Digoel
+645,56395,23,Kabupaten Deiyai,Kabupaten Deiyai
+646,56399,23,Kabupaten Dogiyai,Kabupaten Dogiyai
+647,56427,23,Kabupaten Intan Jaya,Kabupaten Intan Jaya
+648,56428,23,Kabupaten Jayapura,Kabupaten Jayapura
+649,56429,23,Kabupaten Jayawijaya,Kabupaten Jayawijaya
+650,56447,23,Kabupaten Keerom,Kabupaten Keerom
+651,56457,23,Kabupaten Kepulauan Yapen,Kabupaten Kepulauan Yapen
+652,56490,23,Kabupaten Lanny Jaya,Kabupaten Lanny Jaya
+653,56518,23,Kabupaten Mamberamo Raya,Kabupaten Mamberamo Raya
+654,56519,23,Kabupaten Mamberamo Tengah,Kabupaten Mamberamo Tengah
+655,56529,23,Kabupaten Mappi,Kabupaten Mappi
+656,56533,23,Kabupaten Merauke,Kabupaten Merauke
+657,56535,23,Kabupaten Mimika,Kabupaten Mimika
+658,56551,23,Kabupaten Nabire,Kabupaten Nabire
+659,56555,23,Kabupaten Nduga,Kabupaten Nduga
+660,56577,23,Kabupaten Paniai,Kabupaten Paniai
+661,56584,23,Kabupaten Pegunungan Bintang,Kabupaten Pegunungan Bintang
+662,56604,23,Kabupaten Puncak Jaya,Kabupaten Puncak Jaya
+663,56617,23,Kabupaten Sarmi,Kabupaten Sarmi
+664,56656,23,Kabupaten Supiori,Kabupaten Supiori
+665,56683,23,Kabupaten Tolikara,Kabupaten Tolikara
+666,56690,23,Kabupaten Waropen,Kabupaten Waropen
+667,56694,23,Kabupaten Yahukimo,Kabupaten Yahukimo
+668,56695,23,Kabupaten Yalimo,Kabupaten Yalimo
+669,56756,23,Kota Jayapura,Kota Jayapura
+670,56882,23,Nabire,Nabire
+671,56405,24,Kabupaten Fakfak,Kabupaten Fakfak
+672,56435,24,Kabupaten Kaimana,Kabupaten Kaimana
+673,56527,24,Kabupaten Manokwari,Kabupaten Manokwari
+674,56528,24,Kabupaten Manokwari Selatan,Kabupaten Manokwari Selatan
+675,56531,24,Kabupaten Maybrat,Kabupaten Maybrat
+676,56608,24,Kabupaten Raja Ampat,Kabupaten Raja Ampat
+677,56641,24,Kabupaten Sorong,Kabupaten Sorong
+678,56642,24,Kabupaten Sorong Selatan,Kabupaten Sorong Selatan
+679,56660,24,Kabupaten Tambrauw,Kabupaten Tambrauw
+680,56677,24,Kabupaten Teluk Bintuni,Kabupaten Teluk Bintuni
+681,56678,24,Kabupaten Teluk Wondama,Kabupaten Teluk Wondama
+682,56799,24,Kota Sorong,Kota Sorong
+683,56860,24,Manokwari,Manokwari
+684,56995,24,Sorong,Sorong
+685,56188,25,Balaipungut,Balaipungut
+686,56208,25,Batam,Batam
+687,56270,25,Dumai,Dumai
+688,56354,25,Kabupaten Bengkalis,Kabupaten Bengkalis
+689,56424,25,Kabupaten Indragiri Hilir,Kabupaten Indragiri Hilir
+690,56425,25,Kabupaten Indragiri Hulu,Kabupaten Indragiri Hulu
+691,56436,25,Kabupaten Kampar,Kabupaten Kampar
+692,56453,25,Kabupaten Kepulauan Meranti,Kabupaten Kepulauan Meranti
+693,56471,25,Kabupaten Kuantan Singingi,Kabupaten Kuantan Singingi
+694,56586,25,Kabupaten Pelalawan,Kabupaten Pelalawan
+695,56611,25,Kabupaten Rokan Hilir,Kabupaten Rokan Hilir
+696,56612,25,Kabupaten Rokan Hulu,Kabupaten Rokan Hulu
+697,56626,25,Kabupaten Siak,Kabupaten Siak
+698,56752,25,Kota Dumai,Kota Dumai
+699,56787,25,Kota Pekanbaru,Kota Pekanbaru
+700,56927,25,Pekanbaru,Pekanbaru
+701,56509,26,Kabupaten Majene,Kabupaten Majene
+702,56517,26,Kabupaten Mamasa,Kabupaten Mamasa
+703,56520,26,Kabupaten Mamuju,Kabupaten Mamuju
+704,56521,26,Kabupaten Mamuju Tengah,Kabupaten Mamuju Tengah
+705,56522,26,Kabupaten Mamuju Utara,Kabupaten Mamuju Utara
+706,56596,26,Kabupaten Polewali Mandar,Kabupaten Polewali Mandar
+707,56854,26,Majene,Majene
+708,56857,26,Mamuju,Mamuju
+709,56935,26,Polewali,Polewali
+710,56273,27,Galesong,Galesong
+711,56337,27,Kabupaten Bantaeng,Kabupaten Bantaeng
+712,56345,27,Kabupaten Barru,Kabupaten Barru
+713,56374,27,Kabupaten Bone,Kabupaten Bone
+714,56380,27,Kabupaten Bulukumba,Kabupaten Bulukumba
+715,56404,27,Kabupaten Enrekang,Kabupaten Enrekang
+716,56412,27,Kabupaten Gowa,Kabupaten Gowa
+717,56432,27,Kabupaten Jeneponto,Kabupaten Jeneponto
+718,56501,27,Kabupaten Luwu,Kabupaten Luwu
+719,56502,27,Kabupaten Luwu Timur,Kabupaten Luwu Timur
+720,56503,27,Kabupaten Luwu Utara,Kabupaten Luwu Utara
+721,56530,27,Kabupaten Maros,Kabupaten Maros
+722,56576,27,Kabupaten Pangkajene Dan Kepulauan,Kabupaten Pangkajene Dan Kepulauan
+723,56594,27,Kabupaten Pinrang,Kabupaten Pinrang
+724,56628,27,Kabupaten Sidenreng Rappang,Kabupaten Sidenreng Rappang
+725,56635,27,Kabupaten Sinjai,Kabupaten Sinjai
+726,56640,27,Kabupaten Soppeng,Kabupaten Soppeng
+727,56659,27,Kabupaten Takalar,Kabupaten Takalar
+728,56662,27,Kabupaten Tana Toraja,Kabupaten Tana Toraja
+729,56684,27,Kabupaten Toraja Utara,Kabupaten Toraja Utara
+730,56689,27,Kabupaten Wajo,Kabupaten Wajo
+731,56766,27,Kota Makassar,Kota Makassar
+732,56779,27,Kota Palopo,Kota Palopo
+733,56782,27,Kota Parepare,Kota Parepare
+734,56855,27,Makassar,Makassar
+735,56863,27,Maros,Maros
+736,56900,27,Palopo,Palopo
+737,56916,27,Parepare,Parepare
+738,56952,27,Rantepao,Rantepao
+739,56963,27,Selayar Islands Regency,Selayar Islands Regency
+740,56967,27,Sengkang,Sengkang
+741,56985,27,Sinjai,Sinjai
+742,57052,27,Watampone,Watampone
+743,56326,28,Kabupaten Banggai,Kabupaten Banggai
+744,56327,28,Kabupaten Banggai Kepulauan,Kabupaten Banggai Kepulauan
+745,56328,28,Kabupaten Banggai Laut,Kabupaten Banggai Laut
+746,56383,28,Kabupaten Buol,Kabupaten Buol
+747,56401,28,Kabupaten Donggala,Kabupaten Donggala
+748,56541,28,Kabupaten Morowali Utara,Kabupaten Morowali Utara
+749,56578,28,Kabupaten Parigi Moutong,Kabupaten Parigi Moutong
+750,56598,28,Kabupaten Poso,Kabupaten Poso
+751,56630,28,Kabupaten Sigi,Kabupaten Sigi
+752,56682,28,Kabupaten Toli-Toli,Kabupaten Toli-Toli
+753,56780,28,Kota Palu,Kota Palu
+754,56849,28,Luwuk,Luwuk
+755,56876,28,Morowali Regency,Morowali Regency
+756,56901,28,Palu,Palu
+757,56937,28,Poso,Poso
+758,57034,28,Tojo Una-Una Regency,Tojo Una-Una Regency
+759,56372,29,Kabupaten Bombana,Kabupaten Bombana
+760,56386,29,Kabupaten Buton,Kabupaten Buton
+761,56387,29,Kabupaten Buton Selatan,Kabupaten Buton Selatan
+762,56388,29,Kabupaten Buton Tengah,Kabupaten Buton Tengah
+763,56389,29,Kabupaten Buton Utara,Kabupaten Buton Utara
+764,56461,29,Kabupaten Kolaka,Kabupaten Kolaka
+765,56462,29,Kabupaten Kolaka Timur,Kabupaten Kolaka Timur
+766,56463,29,Kabupaten Kolaka Utara,Kabupaten Kolaka Utara
+767,56464,29,Kabupaten Konawe,Kabupaten Konawe
+768,56465,29,Kabupaten Konawe Kepulauan,Kabupaten Konawe Kepulauan
+769,56466,29,Kabupaten Konawe Selatan,Kabupaten Konawe Selatan
+770,56467,29,Kabupaten Konawe Utara,Kabupaten Konawe Utara
+771,56545,29,Kabupaten Muna,Kabupaten Muna
+772,56546,29,Kabupaten Muna Barat,Kabupaten Muna Barat
+773,56703,29,Katabu,Katabu
+774,56712,29,Kendari,Kendari
+775,56737,29,Kota Baubau,Kota Baubau
+776,56758,29,Kota Kendari,Kota Kendari
+777,57049,29,Wakatobi Regency,Wakatobi Regency
+778,56368,30,Kabupaten Bolaang Mongondow,Kabupaten Bolaang Mongondow
+779,56369,30,Kabupaten Bolaang Mongondow Selatan,Kabupaten Bolaang Mongondow Selatan
+780,56370,30,Kabupaten Bolaang Mongondow Timur,Kabupaten Bolaang Mongondow Timur
+781,56371,30,Kabupaten Bolaang Mongondow Utara,Kabupaten Bolaang Mongondow Utara
+782,56454,30,Kabupaten Kepulauan Sangihe,Kabupaten Kepulauan Sangihe
+783,56456,30,Kabupaten Kepulauan Talaud,Kabupaten Kepulauan Talaud
+784,56536,30,Kabupaten Minahasa,Kabupaten Minahasa
+785,56537,30,Kabupaten Minahasa Selatan,Kabupaten Minahasa Selatan
+786,56538,30,Kabupaten Minahasa Tenggara,Kabupaten Minahasa Tenggara
+787,56539,30,Kabupaten Minahasa Utara,Kabupaten Minahasa Utara
+788,56627,30,Kabupaten Siau Tagulandang Biaro,Kabupaten Siau Tagulandang Biaro
+789,56742,30,Kota Bitung,Kota Bitung
+790,56759,30,Kota Kotamobagu,Kota Kotamobagu
+791,56768,30,Kota Manado,Kota Manado
+792,56814,30,Kota Tomohon,Kota Tomohon
+793,56835,30,"Laikit, Laikit II (Dimembe)","Laikit, Laikit II (Dimembe)"
+794,56858,30,Manado,Manado
+795,57035,30,Tomohon,Tomohon
+796,57037,30,Tondano,Tondano
+797,56234,31,Bukittinggi,Bukittinggi
+798,56318,31,Kabupaten Agam,Kabupaten Agam
+799,56398,31,Kabupaten Dharmasraya,Kabupaten Dharmasraya
+800,56452,31,Kabupaten Kepulauan Mentawai,Kabupaten Kepulauan Mentawai
+801,56494,31,Kabupaten Lima Puluh Kota,Kabupaten Lima Puluh Kota
+802,56571,31,Kabupaten Padang Pariaman,Kabupaten Padang Pariaman
+803,56579,31,Kabupaten Pasaman,Kabupaten Pasaman
+804,56580,31,Kabupaten Pasaman Barat,Kabupaten Pasaman Barat
+805,56592,31,Kabupaten Pesisir Selatan,Kabupaten Pesisir Selatan
+806,56631,31,Kabupaten Sijunjung,Kabupaten Sijunjung
+807,56638,31,Kabupaten Solok,Kabupaten Solok
+808,56639,31,Kabupaten Solok Selatan,Kabupaten Solok Selatan
+809,56664,31,Kabupaten Tanah Datar,Kabupaten Tanah Datar
+810,56746,31,Kota Bukittinggi,Kota Bukittinggi
+811,56773,31,Kota Padang,Kota Padang
+812,56774,31,Kota Padang Panjang,Kota Padang Panjang
+813,56783,31,Kota Pariaman,Kota Pariaman
+814,56785,31,Kota Payakumbuh,Kota Payakumbuh
+815,56794,31,Kota Sawah Lunto,Kota Sawah Lunto
+816,56798,31,Kota Solok,Kota Solok
+817,56893,31,Padang,Padang
+818,56917,31,Pariaman,Pariaman
+819,56923,31,Payakumbuh,Payakumbuh
+820,56977,31,Sijunjung,Sijunjung
+821,56993,31,Solok,Solok
+822,56212,32,Baturaja,Baturaja
+823,56402,32,Kabupaten Empat Lawang,Kabupaten Empat Lawang
+824,56542,32,Kabupaten Muara Enim,Kabupaten Muara Enim
+825,56548,32,Kabupaten Musi Banyuasin,Kabupaten Musi Banyuasin
+826,56549,32,Kabupaten Musi Rawas,Kabupaten Musi Rawas
+827,56550,32,Kabupaten Musi Rawas Utara,Kabupaten Musi Rawas Utara
+828,56563,32,Kabupaten Ogan Ilir,Kabupaten Ogan Ilir
+829,56564,32,Kabupaten Ogan Komering Ilir,Kabupaten Ogan Komering Ilir
+830,56565,32,Kabupaten Ogan Komering Ulu,Kabupaten Ogan Komering Ulu
+831,56566,32,Kabupaten Ogan Komering Ulu Selatan,Kabupaten Ogan Komering Ulu Selatan
+832,56567,32,Kabupaten Ogan Komering Ulu Timur,Kabupaten Ogan Komering Ulu Timur
+833,56589,32,Kabupaten Penukal Abab Lematang Ilir,Kabupaten Penukal Abab Lematang Ilir
+834,56763,32,Kota Lubuklinggau,Kota Lubuklinggau
+835,56776,32,Kota Pagar Alam,Kota Pagar Alam
+836,56778,32,Kota Palembang,Kota Palembang
+837,56789,32,Kota Prabumulih,Kota Prabumulih
+838,56833,32,Lahat,Lahat
+839,56834,32,Lahat Regency,Lahat Regency
+840,56847,32,Lubuklinggau,Lubuklinggau
+841,56895,32,Pagar Alam,Pagar Alam
+842,56898,32,Palembang,Palembang
+843,56939,32,Prabumulih,Prabumulih
+844,57020,32,Tanjungagung,Tanjungagung
+845,56177,33,Ambarita,Ambarita
+846,56194,33,Bandar,Bandar
+847,56216,33,Belawan,Belawan
+848,56218,33,Berastagi,Berastagi
+849,56222,33,Binjai,Binjai
+850,56261,33,Deli Tua,Deli Tua
+851,56290,33,Gunungsitoli,Gunungsitoli
+852,56306,33,Kabanjahe,Kabanjahe
+853,56320,33,Kabupaten Asahan,Kabupaten Asahan
+854,56348,33,Kabupaten Batu Bara,Kabupaten Batu Bara
+855,56394,33,Kabupaten Dairi,Kabupaten Dairi
+856,56396,33,Kabupaten Deli Serdang,Kabupaten Deli Serdang
+857,56423,33,Kabupaten Humbang Hasundutan,Kabupaten Humbang Hasundutan
+858,56442,33,Kabupaten Karo,Kabupaten Karo
+859,56479,33,Kabupaten Labuhan Batu,Kabupaten Labuhan Batu
+860,56480,33,Kabupaten Labuhan Batu Selatan,Kabupaten Labuhan Batu Selatan
+861,56481,33,Kabupaten Labuhan Batu Utara,Kabupaten Labuhan Batu Utara
+862,56489,33,Kabupaten Langkat,Kabupaten Langkat
+863,56523,33,Kabupaten Mandailing Natal,Kabupaten Mandailing Natal
+864,56559,33,Kabupaten Nias,Kabupaten Nias
+865,56560,33,Kabupaten Nias Barat,Kabupaten Nias Barat
+866,56561,33,Kabupaten Nias Utara,Kabupaten Nias Utara
+867,56569,33,Kabupaten Padang Lawas,Kabupaten Padang Lawas
+868,56570,33,Kabupaten Padang Lawas Utara,Kabupaten Padang Lawas Utara
+869,56572,33,Kabupaten Pakpak Bharat,Kabupaten Pakpak Bharat
+870,56615,33,Kabupaten Samosir,Kabupaten Samosir
+871,56624,33,Kabupaten Serdang Bedagai,Kabupaten Serdang Bedagai
+872,56633,33,Kabupaten Simalungun,Kabupaten Simalungun
+873,56670,33,Kabupaten Tapanuli Selatan,Kabupaten Tapanuli Selatan
+874,56671,33,Kabupaten Tapanuli Tengah,Kabupaten Tapanuli Tengah
+875,56672,33,Kabupaten Tapanuli Utara,Kabupaten Tapanuli Utara
+876,56717,33,Kisaran,Kisaran
+877,56741,33,Kota Binjai,Kota Binjai
+878,56754,33,Kota Gunungsitoli,Kota Gunungsitoli
+879,56770,33,Kota Medan,Kota Medan
+880,56775,33,Kota Padangsidimpuan,Kota Padangsidimpuan
+881,56788,33,Kota Pematang Siantar,Kota Pematang Siantar
+882,56797,33,Kota Sibolga,Kota Sibolga
+883,56807,33,Kota Tanjung Balai,Kota Tanjung Balai
+884,56810,33,Kota Tebing Tinggi,Kota Tebing Tinggi
+885,56832,33,Labuhan Deli,Labuhan Deli
+886,56867,33,Medan,Medan
+887,56894,33,Padangsidempuan,Padangsidempuan
+888,56910,33,Pangkalan Brandan,Pangkalan Brandan
+889,56914,33,Parapat,Parapat
+890,56926,33,Pekan Bahapal,Pekan Bahapal
+891,56930,33,Pematangsiantar,Pematangsiantar
+892,56932,33,Perbaungan,Perbaungan
+893,56933,33,Percut,Percut
+894,56951,33,Rantauprapat,Rantauprapat
+895,56973,33,Sibolga,Sibolga
+896,57000,33,Stabat,Stabat
+897,57010,33,Sunggal,Sunggal
+898,57021,33,Tanjungbalai,Tanjungbalai
+899,57022,33,Tanjungtiram,Tanjungtiram
+900,57027,33,Tebingtinggi,Tebingtinggi
+901,57029,33,Teluk Nibung,Teluk Nibung
+902,57036,33,Tomok Bolon,Tomok Bolon
+903,57038,33,Tongging,Tongging
+904,57043,33,Tuktuk Sonak,Tuktuk Sonak
