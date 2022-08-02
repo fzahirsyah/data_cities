@@ -1,0 +1,906 @@
+subdivision_id,division_id,name,local_name,country_id
+56193,1822,Banda Aceh,Banda Aceh,102
+56223,1822,Bireun,Bireun,102
+56307,1822,Kabupaten Aceh Barat,Kabupaten Aceh Barat,102
+56308,1822,Kabupaten Aceh Barat Daya,Kabupaten Aceh Barat Daya,102
+56309,1822,Kabupaten Aceh Besar,Kabupaten Aceh Besar,102
+56310,1822,Kabupaten Aceh Jaya,Kabupaten Aceh Jaya,102
+56311,1822,Kabupaten Aceh Selatan,Kabupaten Aceh Selatan,102
+56312,1822,Kabupaten Aceh Singkil,Kabupaten Aceh Singkil,102
+56313,1822,Kabupaten Aceh Tamiang,Kabupaten Aceh Tamiang,102
+56314,1822,Kabupaten Aceh Tengah,Kabupaten Aceh Tengah,102
+56315,1822,Kabupaten Aceh Tenggara,Kabupaten Aceh Tenggara,102
+56316,1822,Kabupaten Aceh Timur,Kabupaten Aceh Timur,102
+56317,1822,Kabupaten Aceh Utara,Kabupaten Aceh Utara,102
+56353,1822,Kabupaten Bener Meriah,Kabupaten Bener Meriah,102
+56362,1822,Kabupaten Bireuen,Kabupaten Bireuen,102
+56408,1822,Kabupaten Gayo Lues,Kabupaten Gayo Lues,102
+56552,1822,Kabupaten Nagan Raya,Kabupaten Nagan Raya,102
+56593,1822,Kabupaten Pidie,Kabupaten Pidie,102
+56634,1822,Kabupaten Simeulue,Kabupaten Simeulue,102
+56729,1822,Kota Banda Aceh,Kota Banda Aceh,102
+56761,1822,Kota Langsa,Kota Langsa,102
+56762,1822,Kota Lhokseumawe,Kota Lhokseumawe,102
+56791,1822,Kota Sabang,Kota Sabang,102
+56800,1822,Kota Subulussalam,Kota Subulussalam,102
+56837,1822,Langsa,Langsa,102
+56844,1822,Lhokseumawe,Lhokseumawe,102
+56872,1822,Meulaboh,Meulaboh,102
+56955,1822,Reuleuet,Reuleuet,102
+56957,1822,Sabang,Sabang,102
+56976,1822,Sigli,Sigli,102
+56979,1822,Sinabang,Sinabang,102
+56982,1822,Singkil,Singkil,102
+56179,1826,Amlapura,Amlapura,102
+56180,1826,Amlapura city,Amlapura city,102
+56200,1826,Banjar,Banjar,102
+56201,1826,Banjar Wangsian,Banjar Wangsian,102
+56213,1826,Bedugul,Bedugul,102
+56263,1826,Denpasar,Denpasar,102
+56302,1826,Jimbaran,Jimbaran,102
+56322,1826,Kabupaten Badung,Kabupaten Badung,102
+56334,1826,Kabupaten Bangli,Kabupaten Bangli,102
+56379,1826,Kabupaten Buleleng,Kabupaten Buleleng,102
+56409,1826,Kabupaten Gianyar,Kabupaten Gianyar,102
+56431,1826,Kabupaten Jembrana,Kabupaten Jembrana,102
+56438,1826,Kabupaten Karang Asem,Kabupaten Karang Asem,102
+56460,1826,Kabupaten Klungkung,Kabupaten Klungkung,102
+56658,1826,Kabupaten Tabanan,Kabupaten Tabanan,102
+56720,1826,Klungkung,Klungkung,102
+56750,1826,Kota Denpasar,Kota Denpasar,102
+56827,1826,Kuta,Kuta,102
+56841,1826,Legian,Legian,102
+56846,1826,Lovina,Lovina,102
+56879,1826,Munduk,Munduk,102
+56884,1826,Negara,Negara,102
+56890,1826,Nusa Dua,Nusa Dua,102
+56970,1826,Seririt,Seririt,102
+56981,1826,Singaraja,Singaraja,102
+57013,1826,Tabanan,Tabanan,102
+57046,1826,Ubud,Ubud,102
+56257,1810,Curug,Curug,102
+56491,1810,Kabupaten Lebak,Kabupaten Lebak,102
+56574,1810,Kabupaten Pandeglang,Kabupaten Pandeglang,102
+56623,1810,Kabupaten Serang,Kabupaten Serang,102
+56666,1810,Kabupaten Tangerang,Kabupaten Tangerang,102
+56747,1810,Kota Cilegon,Kota Cilegon,102
+56796,1810,Kota Serang,Kota Serang,102
+56805,1810,Kota Tangerang,Kota Tangerang,102
+56806,1810,Kota Tangerang Selatan,Kota Tangerang Selatan,102
+56829,1810,Labuan,Labuan,102
+56909,1810,Pandeglang,Pandeglang,102
+56950,1810,Rangkasbitung,Rangkasbitung,102
+56969,1810,Serang,Serang,102
+56996,1810,South Tangerang,South Tangerang,102
+57014,1810,Tangerang,Tangerang,102
+56217,1793,Bengkulu,Bengkulu,102
+56258,1793,Curup,Curup,102
+56355,1793,Kabupaten Bengkulu Selatan,Kabupaten Bengkulu Selatan,102
+56356,1793,Kabupaten Bengkulu Tengah,Kabupaten Bengkulu Tengah,102
+56357,1793,Kabupaten Bengkulu Utara,Kabupaten Bengkulu Utara,102
+56444,1793,Kabupaten Kaur,Kabupaten Kaur,102
+56449,1793,Kabupaten Kepahiang,Kabupaten Kepahiang,102
+56492,1793,Kabupaten Lebong,Kabupaten Lebong,102
+56544,1793,Kabupaten Mukomuko,Kabupaten Mukomuko,102
+56609,1793,Kabupaten Rejang Lebong,Kabupaten Rejang Lebong,102
+56619,1793,Kabupaten Seluma,Kabupaten Seluma,102
+56739,1793,Kota Bengkulu,Kota Bengkulu,102
+56192,1829,Bambanglipuro,Bambanglipuro,102
+56204,1829,Bantul,Bantul,102
+56264,1829,Depok,Depok,102
+56276,1829,Gamping Lor,Gamping Lor,102
+56282,1829,Godean,Godean,102
+56338,1829,Kabupaten Bantul,Kabupaten Bantul,102
+56414,1829,Kabupaten Gunung Kidul,Kabupaten Gunung Kidul,102
+56473,1829,Kabupaten Kulon Progo,Kabupaten Kulon Progo,102
+56637,1829,Kabupaten Sleman,Kabupaten Sleman,102
+56702,1829,Kasihan,Kasihan,102
+56816,1829,Kota Yogyakarta,Kota Yogyakarta,102
+56868,1829,Melati,Melati,102
+56908,1829,Pandak,Pandak,102
+56943,1829,Pundong,Pundong,102
+56972,1829,Sewon,Sewon,102
+56988,1829,Sleman,Sleman,102
+56998,1829,Srandakan,Srandakan,102
+57061,1829,Yogyakarta,Yogyakarta,102
+56293,1805,Jakarta,Jakarta,102
+56722,1805,Kota Administrasi Jakarta Barat,Kota Administrasi Jakarta Barat,102
+56723,1805,Kota Administrasi Jakarta Pusat,Kota Administrasi Jakarta Pusat,102
+56724,1805,Kota Administrasi Jakarta Selatan,Kota Administrasi Jakarta Selatan,102
+56725,1805,Kota Administrasi Jakarta Timur,Kota Administrasi Jakarta Timur,102
+56726,1805,Kota Administrasi Jakarta Utara,Kota Administrasi Jakarta Utara,102
+56285,1812,Gorontalo,Gorontalo,102
+56365,1812,Kabupaten Boalemo,Kabupaten Boalemo,102
+56375,1812,Kabupaten Bone Bolango,Kabupaten Bone Bolango,102
+56410,1812,Kabupaten Gorontalo,Kabupaten Gorontalo,102
+56411,1812,Kabupaten Gorontalo Utara,Kabupaten Gorontalo Utara,102
+56595,1812,Kabupaten Pohuwato,Kabupaten Pohuwato,102
+56753,1812,Kota Gorontalo,Kota Gorontalo,102
+56214,1815,Bejubang Dua,Bejubang Dua,102
+56294,1815,Jambi City,Jambi City,102
+56347,1815,Kabupaten Batang Hari,Kabupaten Batang Hari,102
+56382,1815,Kabupaten Bungo,Kabupaten Bungo,102
+56458,1815,Kabupaten Kerinci,Kabupaten Kerinci,102
+56532,1815,Kabupaten Merangin,Kabupaten Merangin,102
+56543,1815,Kabupaten Muaro Jambi,Kabupaten Muaro Jambi,102
+56618,1815,Kabupaten Sarolangun,Kabupaten Sarolangun,102
+56668,1815,Kabupaten Tanjung Jabung Barat,Kabupaten Tanjung Jabung Barat,102
+56669,1815,Kabupaten Tanjung Jabung Timur,Kabupaten Tanjung Jabung Timur,102
+56675,1815,Kabupaten Tebo,Kabupaten Tebo,102
+56755,1815,Kota Jambi,Kota Jambi,102
+56802,1815,Kota Sungai Penuh,Kota Sungai Penuh,102
+56822,1815,Kuala Tungkal,Kuala Tungkal,102
+56869,1815,Mendaha,Mendaha,102
+56978,1815,Simpang,Simpang,102
+57008,1815,Sungai Penuh,Sungai Penuh,102
+56182,1825,Arjawinangun,Arjawinangun,102
+56183,1825,Astanajapura,Astanajapura,102
+56196,1825,Bandung,Bandung,102
+56199,1825,Banjar,Banjar,102
+56202,1825,Banjaran,Banjaran,102
+56215,1825,Bekasi,Bekasi,102
+56226,1825,Bogor,Bogor,102
+56237,1825,Caringin,Caringin,102
+56240,1825,Ciamis,Ciamis,102
+56241,1825,Ciampea,Ciampea,102
+56242,1825,Cibinong,Cibinong,102
+56243,1825,Cicurug,Cicurug,102
+56244,1825,Cikampek,Cikampek,102
+56245,1825,Cikarang,Cikarang,102
+56246,1825,Cikupa,Cikupa,102
+56247,1825,Cileungsir,Cileungsir,102
+56248,1825,Cileunyi,Cileunyi,102
+56249,1825,Cimahi,Cimahi,102
+56250,1825,Ciputat,Ciputat,102
+56251,1825,Ciranjang-hilir,Ciranjang-hilir,102
+56252,1825,Cirebon,Cirebon,102
+56253,1825,Citeureup,Citeureup,102
+56265,1825,Depok,Depok,102
+56291,1825,Indramayu,Indramayu,102
+56296,1825,Jatibarang,Jatibarang,102
+56298,1825,Jatiwangi,Jatiwangi,102
+56324,1825,Kabupaten Bandung,Kabupaten Bandung,102
+56325,1825,Kabupaten Bandung Barat,Kabupaten Bandung Barat,102
+56349,1825,Kabupaten Bekasi,Kabupaten Bekasi,102
+56366,1825,Kabupaten Bogor,Kabupaten Bogor,102
+56390,1825,Kabupaten Ciamis,Kabupaten Ciamis,102
+56391,1825,Kabupaten Cianjur,Kabupaten Cianjur,102
+56393,1825,Kabupaten Cirebon,Kabupaten Cirebon,102
+56407,1825,Kabupaten Garut,Kabupaten Garut,102
+56426,1825,Kabupaten Indramayu,Kabupaten Indramayu,102
+56440,1825,Kabupaten Karawang,Kabupaten Karawang,102
+56474,1825,Kabupaten Kuningan,Kabupaten Kuningan,102
+56508,1825,Kabupaten Majalengka,Kabupaten Majalengka,102
+56575,1825,Kabupaten Pangandaran,Kabupaten Pangandaran,102
+56606,1825,Kabupaten Purwakarta,Kabupaten Purwakarta,102
+56644,1825,Kabupaten Subang,Kabupaten Subang,102
+56645,1825,Kabupaten Sukabumi,Kabupaten Sukabumi,102
+56654,1825,Kabupaten Sumedang,Kabupaten Sumedang,102
+56674,1825,Kabupaten Tasikmalaya,Kabupaten Tasikmalaya,102
+56698,1825,Karangampel,Karangampel,102
+56700,1825,Karangsembung,Karangsembung,102
+56704,1825,Kawalu,Kawalu,102
+56718,1825,Klangenan,Klangenan,102
+56731,1825,Kota Bandung,Kota Bandung,102
+56732,1825,Kota Banjar,Kota Banjar,102
+56738,1825,Kota Bekasi,Kota Bekasi,102
+56744,1825,Kota Bogor,Kota Bogor,102
+56748,1825,Kota Cimahi,Kota Cimahi,102
+56749,1825,Kota Cirebon,Kota Cirebon,102
+56751,1825,Kota Depok,Kota Depok,102
+56801,1825,Kota Sukabumi,Kota Sukabumi,102
+56809,1825,Kota Tasikmalaya,Kota Tasikmalaya,102
+56819,1825,Kresek,Kresek,102
+56825,1825,Kuningan,Kuningan,102
+56842,1825,Lembang,Lembang,102
+56852,1825,Majalengka,Majalengka,102
+56861,1825,Margahayukencana,Margahayukencana,102
+56886,1825,Ngawi,Ngawi,102
+56892,1825,Padalarang,Padalarang,102
+56899,1825,Palimanan,Palimanan,102
+56902,1825,Pamanukan,Pamanukan,102
+56904,1825,Pameungpeuk,Pameungpeuk,102
+56905,1825,Pamulang,Pamulang,102
+56918,1825,Parung,Parung,102
+56919,1825,Pasarkemis,Pasarkemis,102
+56920,1825,Paseh,Paseh,102
+56928,1825,Pelabuhanratu,Pelabuhanratu,102
+56934,1825,Plumbon,Plumbon,102
+56945,1825,Purwakarta,Purwakarta,102
+56948,1825,Rajapolah,Rajapolah,102
+56954,1825,Rengasdengklok,Rengasdengklok,102
+56962,1825,Sawangan,Sawangan,102
+56968,1825,Sepatan,Sepatan,102
+56971,1825,Serpong,Serpong,102
+56980,1825,Singaparna,Singaparna,102
+56994,1825,Soreang,Soreang,102
+57001,1825,Sukabumi,Sukabumi,102
+57003,1825,Sumber,Sumber,102
+57005,1825,Sumedang,Sumedang,102
+57006,1825,Sumedang Utara,Sumedang Utara,102
+57025,1825,Tasikmalaya,Tasikmalaya,102
+57030,1825,Teluknaga,Teluknaga,102
+57050,1825,Wanaraja,Wanaraja,102
+57056,1825,Weru,Weru,102
+56174,1802,Adiwerna,Adiwerna,102
+56176,1802,Ambarawa,Ambarawa,102
+56186,1802,Baekrajan,Baekrajan,102
+56187,1802,Baki,Baki,102
+56189,1802,Balapulang,Balapulang,102
+56205,1802,Banyumas,Banyumas,102
+56209,1802,Batang,Batang,102
+56211,1802,Baturaden,Baturaden,102
+56225,1802,Blora,Blora,102
+56230,1802,Boyolali,Boyolali,102
+56232,1802,Buaran,Buaran,102
+56235,1802,Bulakamba,Bulakamba,102
+56236,1802,Candi Prambanan,Candi Prambanan,102
+56238,1802,Ceper,Ceper,102
+56239,1802,Cepu,Cepu,102
+56255,1802,Colomadu,Colomadu,102
+56256,1802,Comal,Comal,102
+56260,1802,Delanggu,Delanggu,102
+56262,1802,Demak,Demak,102
+56269,1802,Dukuhturi,Dukuhturi,102
+56277,1802,Gatak,Gatak,102
+56278,1802,Gebog,Gebog,102
+56283,1802,Gombong,Gombong,102
+56288,1802,Grogol,Grogol,102
+56289,1802,Gunung Kendil,Gunung Kendil,102
+56295,1802,Jaten,Jaten,102
+56297,1802,Jatiroto,Jatiroto,102
+56300,1802,Jekulo,Jekulo,102
+56303,1802,Jogonalan,Jogonalan,102
+56305,1802,Juwana,Juwana,102
+56336,1802,Kabupaten Banjarnegara,Kabupaten Banjarnegara,102
+56339,1802,Kabupaten Banyumas,Kabupaten Banyumas,102
+56346,1802,Kabupaten Batang,Kabupaten Batang,102
+56364,1802,Kabupaten Blora,Kabupaten Blora,102
+56377,1802,Kabupaten Boyolali,Kabupaten Boyolali,102
+56378,1802,Kabupaten Brebes,Kabupaten Brebes,102
+56392,1802,Kabupaten Cilacap,Kabupaten Cilacap,102
+56397,1802,Kabupaten Demak,Kabupaten Demak,102
+56413,1802,Kabupaten Grobogan,Kabupaten Grobogan,102
+56433,1802,Kabupaten Jepara,Kabupaten Jepara,102
+56439,1802,Kabupaten Karanganyar,Kabupaten Karanganyar,102
+56445,1802,Kabupaten Kebumen,Kabupaten Kebumen,102
+56448,1802,Kabupaten Kendal,Kabupaten Kendal,102
+56459,1802,Kabupaten Klaten,Kabupaten Klaten,102
+56472,1802,Kabupaten Kudus,Kabupaten Kudus,102
+56505,1802,Kabupaten Magelang,Kabupaten Magelang,102
+56583,1802,Kabupaten Pati,Kabupaten Pati,102
+56585,1802,Kabupaten Pekalongan,Kabupaten Pekalongan,102
+56587,1802,Kabupaten Pemalang,Kabupaten Pemalang,102
+56605,1802,Kabupaten Purbalingga,Kabupaten Purbalingga,102
+56607,1802,Kabupaten Purworejo,Kabupaten Purworejo,102
+56610,1802,Kabupaten Rembang,Kabupaten Rembang,102
+56620,1802,Kabupaten Semarang,Kabupaten Semarang,102
+56643,1802,Kabupaten Sragen,Kabupaten Sragen,102
+56647,1802,Kabupaten Sukoharjo,Kabupaten Sukoharjo,102
+56676,1802,Kabupaten Tegal,Kabupaten Tegal,102
+56679,1802,Kabupaten Temanggung,Kabupaten Temanggung,102
+56692,1802,Kabupaten Wonogiri,Kabupaten Wonogiri,102
+56693,1802,Kabupaten Wonosobo,Kabupaten Wonosobo,102
+56699,1802,Karanganom,Karanganom,102
+56701,1802,Kartasura,Kartasura,102
+56706,1802,Kebonarun,Kebonarun,102
+56709,1802,Kedungwuni,Kedungwuni,102
+56715,1802,Ketanggungan,Ketanggungan,102
+56719,1802,Klaten,Klaten,102
+56765,1802,Kota Magelang,Kota Magelang,102
+56786,1802,Kota Pekalongan,Kota Pekalongan,102
+56792,1802,Kota Salatiga,Kota Salatiga,102
+56795,1802,Kota Semarang,Kota Semarang,102
+56804,1802,Kota Surakarta,Kota Surakarta,102
+56811,1802,Kota Tegal,Kota Tegal,102
+56821,1802,Kroya,Kroya,102
+56824,1802,Kudus,Kudus,102
+56828,1802,Kutoarjo,Kutoarjo,102
+56838,1802,Lasem,Lasem,102
+56840,1802,Lebaksiu,Lebaksiu,102
+56851,1802,Magelang,Magelang,102
+56853,1802,Majenang,Majenang,102
+56862,1802,Margasari,Margasari,102
+56870,1802,Mertoyudan,Mertoyudan,102
+56873,1802,Mlonggo,Mlonggo,102
+56877,1802,Mranggen,Mranggen,102
+56880,1802,Muntilan,Muntilan,102
+56887,1802,Ngemplak,Ngemplak,102
+56922,1802,Pati,Pati,102
+56924,1802,Pecangaan,Pecangaan,102
+56925,1802,Pekalongan,Pekalongan,102
+56929,1802,Pemalang,Pemalang,102
+56944,1802,Purbalingga,Purbalingga,102
+56946,1802,Purwodadi,Purwodadi,102
+56947,1802,Purwokerto,Purwokerto,102
+56949,1802,Randudongkal,Randudongkal,102
+56953,1802,Rembangan,Rembangan,102
+56958,1802,Salatiga,Salatiga,102
+56964,1802,Selogiri,Selogiri,102
+56965,1802,Semarang,Semarang,102
+56974,1802,Sidareja,Sidareja,102
+56987,1802,Slawi,Slawi,102
+56991,1802,Sokaraja,Sokaraja,102
+56997,1802,Sragen,Sragen,102
+57012,1802,Surakarta,Surakarta,102
+57024,1802,Tarub,Tarub,102
+57026,1802,Tayu,Tayu,102
+57028,1802,Tegal,Tegal,102
+57040,1802,Trucuk,Trucuk,102
+57047,1802,Ungaran,Ungaran,102
+57051,1802,Wangon,Wangon,102
+57053,1802,Wedi,Wedi,102
+57054,1802,Welahan,Welahan,102
+57055,1802,Weleri,Weleri,102
+57057,1802,Wiradesa,Wiradesa,102
+57059,1802,Wonopringgo,Wonopringgo,102
+57060,1802,Wonosobo,Wonosobo,102
+56185,1827,Babat,Babat,102
+56191,1827,Balung,Balung,102
+56197,1827,Bangil,Bangil,102
+56198,1827,Bangkalan,Bangkalan,102
+56206,1827,Banyuwangi,Banyuwangi,102
+56210,1827,Batu,Batu,102
+56219,1827,Besuki,Besuki,102
+56224,1827,Blitar,Blitar,102
+56227,1827,Bojonegoro,Bojonegoro,102
+56228,1827,Bondowoso,Bondowoso,102
+56231,1827,Boyolangu,Boyolangu,102
+56233,1827,Buduran,Buduran,102
+56259,1827,Dampit,Dampit,102
+56266,1827,Diwek,Diwek,102
+56268,1827,Driyorejo,Driyorejo,102
+56274,1827,Gambiran Satu,Gambiran Satu,102
+56275,1827,Gampengrejo,Gampengrejo,102
+56279,1827,Gedangan,Gedangan,102
+56280,1827,Genteng,Genteng,102
+56284,1827,Gongdanglegi Kulon,Gongdanglegi Kulon,102
+56286,1827,Gresik,Gresik,102
+56287,1827,Gresik Regency,Gresik Regency,102
+56301,1827,Jember,Jember,102
+56304,1827,Jombang,Jombang,102
+56333,1827,Kabupaten Bangkalan,Kabupaten Bangkalan,102
+56340,1827,Kabupaten Banyuwangi,Kabupaten Banyuwangi,102
+56363,1827,Kabupaten Blitar,Kabupaten Blitar,102
+56367,1827,Kabupaten Bojonegoro,Kabupaten Bojonegoro,102
+56373,1827,Kabupaten Bondowoso,Kabupaten Bondowoso,102
+56430,1827,Kabupaten Jember,Kabupaten Jember,102
+56434,1827,Kabupaten Jombang,Kabupaten Jombang,102
+56446,1827,Kabupaten Kediri,Kabupaten Kediri,102
+56483,1827,Kabupaten Lamongan,Kabupaten Lamongan,102
+56500,1827,Kabupaten Lumajang,Kabupaten Lumajang,102
+56504,1827,Kabupaten Madiun,Kabupaten Madiun,102
+56506,1827,Kabupaten Magetan,Kabupaten Magetan,102
+56511,1827,Kabupaten Malang,Kabupaten Malang,102
+56540,1827,Kabupaten Mojokerto,Kabupaten Mojokerto,102
+56557,1827,Kabupaten Nganjuk,Kabupaten Nganjuk,102
+56558,1827,Kabupaten Ngawi,Kabupaten Ngawi,102
+56568,1827,Kabupaten Pacitan,Kabupaten Pacitan,102
+56573,1827,Kabupaten Pamekasan,Kabupaten Pamekasan,102
+56582,1827,Kabupaten Pasuruan,Kabupaten Pasuruan,102
+56597,1827,Kabupaten Ponorogo,Kabupaten Ponorogo,102
+56600,1827,Kabupaten Probolinggo,Kabupaten Probolinggo,102
+56616,1827,Kabupaten Sampang,Kabupaten Sampang,102
+56629,1827,Kabupaten Sidoarjo,Kabupaten Sidoarjo,102
+56636,1827,Kabupaten Situbondo,Kabupaten Situbondo,102
+56655,1827,Kabupaten Sumenep,Kabupaten Sumenep,102
+56685,1827,Kabupaten Trenggalek,Kabupaten Trenggalek,102
+56686,1827,Kabupaten Tuban,Kabupaten Tuban,102
+56688,1827,Kabupaten Tulungagung,Kabupaten Tulungagung,102
+56696,1827,Kalianget,Kalianget,102
+56697,1827,Kamal,Kamal,102
+56705,1827,Kebomas,Kebomas,102
+56707,1827,Kediri,Kediri,102
+56708,1827,Kedungwaru,Kedungwaru,102
+56711,1827,Kencong,Kencong,102
+56713,1827,Kepanjen,Kepanjen,102
+56714,1827,Kertosono,Kertosono,102
+56736,1827,Kota Batu,Kota Batu,102
+56743,1827,Kota Blitar,Kota Blitar,102
+56757,1827,Kota Kediri,Kota Kediri,102
+56764,1827,Kota Madiun,Kota Madiun,102
+56767,1827,Kota Malang,Kota Malang,102
+56772,1827,Kota Mojokerto,Kota Mojokerto,102
+56784,1827,Kota Pasuruan,Kota Pasuruan,102
+56790,1827,Kota Probolinggo,Kota Probolinggo,102
+56803,1827,Kota Surabaya,Kota Surabaya,102
+56818,1827,Kraksaan,Kraksaan,102
+56820,1827,Krian,Krian,102
+56836,1827,Lamongan,Lamongan,102
+56839,1827,Lawang,Lawang,102
+56848,1827,Lumajang,Lumajang,102
+56850,1827,Madiun,Madiun,102
+56856,1827,Malang,Malang,102
+56874,1827,Mojoagung,Mojoagung,102
+56875,1827,Mojokerto,Mojokerto,102
+56878,1827,Muncar,Muncar,102
+56885,1827,Nganjuk,Nganjuk,102
+56888,1827,Ngoro,Ngoro,102
+56889,1827,Ngunut,Ngunut,102
+56891,1827,Paciran,Paciran,102
+56896,1827,Pakisaji,Pakisaji,102
+56903,1827,Pamekasan,Pamekasan,102
+56906,1827,Panarukan,Panarukan,102
+56907,1827,Pandaan,Pandaan,102
+56913,1827,Panji,Panji,102
+56915,1827,Pare,Pare,102
+56921,1827,Pasuruan,Pasuruan,102
+56936,1827,Ponorogo,Ponorogo,102
+56941,1827,Prigen,Prigen,102
+56942,1827,Probolinggo,Probolinggo,102
+56960,1827,Sampang,Sampang,102
+56975,1827,Sidoarjo,Sidoarjo,102
+56983,1827,Singojuruh,Singojuruh,102
+56984,1827,Singosari,Singosari,102
+56986,1827,Situbondo,Situbondo,102
+56992,1827,Soko,Soko,102
+56999,1827,Srono,Srono,102
+57004,1827,Sumberpucung,Sumberpucung,102
+57007,1827,Sumenep,Sumenep,102
+57011,1827,Surabaya,Surabaya,102
+57015,1827,Tanggul,Tanggul,102
+57016,1827,Tanggulangin,Tanggulangin,102
+57039,1827,Trenggalek,Trenggalek,102
+57042,1827,Tuban,Tuban,102
+57044,1827,Tulangan Utara,Tulangan Utara,102
+57045,1827,Tulungagung,Tulungagung,102
+57058,1827,Wongsorejo,Wongsorejo,102
+150090,1806,Bengkayang,Bengkayang,102
+150091,1806,Kapuas Hulu,Kapuas Hulu,102
+150092,1806,Kayong Utara,Kayong Utara,102
+150093,1806,Ketapang,Ketapang,102
+150094,1806,Kubu Raya,Kubu Raya,102
+150095,1806,Landak,Landak,102
+150096,1806,Manismata,Manismata,102
+150097,1806,Melawi,Melawi,102
+150098,1806,Mempawah,Mempawah,102
+150099,1806,Pemangkat,Pemangkat,102
+150100,1806,Pontianak,Pontianak,102
+150101,1806,Sambas,Sambas,102
+150102,1806,Sanggau,Sanggau,102
+150103,1806,Sekadau,Sekadau,102
+150104,1806,Singkawang,Singkawang,102
+150105,1806,Sintang,Sintang,102
+56181,1819,Amuntai,Amuntai,102
+56203,1819,Banjarmasin,Banjarmasin,102
+56207,1819,Barabai,Barabai,102
+56323,1819,Kabupaten Balangan,Kabupaten Balangan,102
+56335,1819,Kabupaten Banjar,Kabupaten Banjar,102
+56341,1819,Kabupaten Barito Kuala,Kabupaten Barito Kuala,102
+56420,1819,Kabupaten Hulu Sungai Selatan,Kabupaten Hulu Sungai Selatan,102
+56421,1819,Kabupaten Hulu Sungai Tengah,Kabupaten Hulu Sungai Tengah,102
+56422,1819,Kabupaten Hulu Sungai Utara,Kabupaten Hulu Sungai Utara,102
+56468,1819,Kabupaten Kota Baru,Kabupaten Kota Baru,102
+56657,1819,Kabupaten Tabalong,Kabupaten Tabalong,102
+56663,1819,Kabupaten Tanah Bumbu,Kabupaten Tanah Bumbu,102
+56665,1819,Kabupaten Tanah Laut,Kabupaten Tanah Laut,102
+56673,1819,Kabupaten Tapin,Kabupaten Tapin,102
+56733,1819,Kota Banjar Baru,Kota Banjar Baru,102
+56734,1819,Kota Banjarmasin,Kota Banjarmasin,102
+56864,1819,Martapura,Martapura,102
+56342,1794,Kabupaten Barito Selatan,Kabupaten Barito Selatan,102
+56343,1794,Kabupaten Barito Timur,Kabupaten Barito Timur,102
+56344,1794,Kabupaten Barito Utara,Kabupaten Barito Utara,102
+56415,1794,Kabupaten Gunung Mas,Kabupaten Gunung Mas,102
+56437,1794,Kabupaten Kapuas,Kabupaten Kapuas,102
+56443,1794,Kabupaten Katingan,Kabupaten Katingan,102
+56469,1794,Kabupaten Kotawaringin Barat,Kabupaten Kotawaringin Barat,102
+56470,1794,Kabupaten Kotawaringin Timur,Kabupaten Kotawaringin Timur,102
+56482,1794,Kabupaten Lamandau,Kabupaten Lamandau,102
+56547,1794,Kabupaten Murung Raya,Kabupaten Murung Raya,102
+56601,1794,Kabupaten Pulang Pisau,Kabupaten Pulang Pisau,102
+56625,1794,Kabupaten Seruyan,Kabupaten Seruyan,102
+56646,1794,Kabupaten Sukamara,Kabupaten Sukamara,102
+56777,1794,Kota Palangka Raya,Kota Palangka Raya,102
+56823,1794,Kualakapuas,Kualakapuas,102
+56897,1794,Palangkaraya,Palangkaraya,102
+56911,1794,Pangkalanbuun,Pangkalanbuun,102
+56961,1794,Sampit,Sampit,102
+56190,1804,Balikpapan,Balikpapan,102
+56229,1804,Bontang,Bontang,102
+56254,1804,City of Balikpapan,City of Balikpapan,102
+56358,1804,Kabupaten Berau,Kabupaten Berau,102
+56476,1804,Kabupaten Kutai Barat,Kabupaten Kutai Barat,102
+56477,1804,Kabupaten Kutai Kartanegara,Kabupaten Kutai Kartanegara,102
+56478,1804,Kabupaten Kutai Timur,Kabupaten Kutai Timur,102
+56507,1804,Kabupaten Mahakam Hulu,Kabupaten Mahakam Hulu,102
+56581,1804,Kabupaten Paser,Kabupaten Paser,102
+56588,1804,Kabupaten Penajam Paser Utara,Kabupaten Penajam Paser Utara,102
+56728,1804,Kota Balikpapan,Kota Balikpapan,102
+56745,1804,Kota Bontang,Kota Bontang,102
+56793,1804,Kota Samarinda,Kota Samarinda,102
+56845,1804,Loa Janan,Loa Janan,102
+56959,1804,Samarinda,Samarinda,102
+56381,1824,Kabupaten Bulungan,Kabupaten Bulungan,102
+56512,1824,Kabupaten Malinau,Kabupaten Malinau,102
+56562,1824,Kabupaten Nunukan,Kabupaten Nunukan,102
+56661,1824,Kabupaten Tana Tidung,Kabupaten Tana Tidung,102
+57019,1824,Tanjung Selor,Tanjung Selor,102
+57023,1824,Tarakan,Tarakan,102
+56329,1820,Kabupaten Bangka,Kabupaten Bangka,102
+56330,1820,Kabupaten Bangka Barat,Kabupaten Bangka Barat,102
+56331,1820,Kabupaten Bangka Selatan,Kabupaten Bangka Selatan,102
+56332,1820,Kabupaten Bangka Tengah,Kabupaten Bangka Tengah,102
+56350,1820,Kabupaten Belitung,Kabupaten Belitung,102
+56351,1820,Kabupaten Belitung Timur,Kabupaten Belitung Timur,102
+56781,1820,Kota Pangkal Pinang,Kota Pangkal Pinang,102
+56859,1820,Manggar,Manggar,102
+56881,1820,Muntok,Muntok,102
+56912,1820,Pangkalpinang,Pangkalpinang,102
+57009,1820,Sungailiat,Sungailiat,102
+57017,1820,Tanjung Pandan,Tanjung Pandan,102
+56361,1807,Kabupaten Bintan,Kabupaten Bintan,102
+56441,1807,Kabupaten Karimun,Kabupaten Karimun,102
+56450,1807,Kabupaten Kepulauan Anambas,Kabupaten Kepulauan Anambas,102
+56495,1807,Kabupaten Lingga,Kabupaten Lingga,102
+56554,1807,Kabupaten Natuna,Kabupaten Natuna,102
+56716,1807,Kijang,Kijang,102
+56735,1807,Kota Batam,Kota Batam,102
+56808,1807,Kota Tanjung Pinang,Kota Tanjung Pinang,102
+57018,1807,Tanjung Pinang,Tanjung Pinang,102
+56195,1811,Bandar Lampung,Bandar Lampung,102
+56484,1811,Kabupaten Lampung Barat,Kabupaten Lampung Barat,102
+56485,1811,Kabupaten Lampung Selatan,Kabupaten Lampung Selatan,102
+56486,1811,Kabupaten Lampung Tengah,Kabupaten Lampung Tengah,102
+56487,1811,Kabupaten Lampung Timur,Kabupaten Lampung Timur,102
+56488,1811,Kabupaten Lampung Utara,Kabupaten Lampung Utara,102
+56534,1811,Kabupaten Mesuji,Kabupaten Mesuji,102
+56590,1811,Kabupaten Pesawaran,Kabupaten Pesawaran,102
+56591,1811,Kabupaten Pesisir Barat,Kabupaten Pesisir Barat,102
+56599,1811,Kabupaten Pringsewu,Kabupaten Pringsewu,102
+56667,1811,Kabupaten Tanggamus,Kabupaten Tanggamus,102
+56687,1811,Kabupaten Tulangbawang,Kabupaten Tulangbawang,102
+56691,1811,Kabupaten Way Kanan,Kabupaten Way Kanan,102
+56730,1811,Kota Bandar Lampung,Kota Bandar Lampung,102
+56771,1811,Kota Metro,Kota Metro,102
+56817,1811,Kotabumi,Kotabumi,102
+56871,1811,Metro,Metro,102
+57031,1811,Terbanggi Besar,Terbanggi Besar,102
+56175,1800,Amahai,Amahai,102
+56178,1800,Ambon,Ambon,102
+56384,1800,Kabupaten Buru,Kabupaten Buru,102
+56385,1800,Kabupaten Buru Selatan,Kabupaten Buru Selatan,102
+56451,1800,Kabupaten Kepulauan Aru,Kabupaten Kepulauan Aru,102
+56513,1800,Kabupaten Maluku Barat Daya,Kabupaten Maluku Barat Daya,102
+56514,1800,Kabupaten Maluku Tengah,Kabupaten Maluku Tengah,102
+56515,1800,Kabupaten Maluku Tenggara,Kabupaten Maluku Tenggara,102
+56516,1800,Kabupaten Maluku Tenggara Barat,Kabupaten Maluku Tenggara Barat,102
+56621,1800,Kabupaten Seram Bagian Barat,Kabupaten Seram Bagian Barat,102
+56622,1800,Kabupaten Seram Bagian Timur,Kabupaten Seram Bagian Timur,102
+56727,1800,Kota Ambon,Kota Ambon,102
+56815,1800,Kota Tual,Kota Tual,102
+57041,1800,Tual,Tual,102
+56271,1801,East Halmahera Regency,East Halmahera Regency,102
+56416,1801,Kabupaten Halmahera Barat,Kabupaten Halmahera Barat,102
+56417,1801,Kabupaten Halmahera Selatan,Kabupaten Halmahera Selatan,102
+56418,1801,Kabupaten Halmahera Tengah,Kabupaten Halmahera Tengah,102
+56419,1801,Kabupaten Halmahera Utara,Kabupaten Halmahera Utara,102
+56455,1801,Kabupaten Kepulauan Sula,Kabupaten Kepulauan Sula,102
+56602,1801,Kabupaten Pulau Morotai,Kabupaten Pulau Morotai,102
+56603,1801,Kabupaten Pulau Taliabu,Kabupaten Pulau Taliabu,102
+56812,1801,Kota Ternate,Kota Ternate,102
+56813,1801,Kota Tidore Kepulauan,Kota Tidore Kepulauan,102
+56990,1801,Sofifi,Sofifi,102
+57032,1801,Ternate,Ternate,102
+57033,1801,Tobelo,Tobelo,102
+56221,1814,Bima,Bima,102
+56267,1814,Dompu,Dompu,102
+56281,1814,Gili Air,Gili Air,102
+56360,1814,Kabupaten Bima,Kabupaten Bima,102
+56400,1814,Kabupaten Dompu,Kabupaten Dompu,102
+56496,1814,Kabupaten Lombok Barat,Kabupaten Lombok Barat,102
+56497,1814,Kabupaten Lombok Tengah,Kabupaten Lombok Tengah,102
+56498,1814,Kabupaten Lombok Timur,Kabupaten Lombok Timur,102
+56499,1814,Kabupaten Lombok Utara,Kabupaten Lombok Utara,102
+56652,1814,Kabupaten Sumbawa,Kabupaten Sumbawa,102
+56653,1814,Kabupaten Sumbawa Barat,Kabupaten Sumbawa Barat,102
+56740,1814,Kota Bima,Kota Bima,102
+56769,1814,Kota Mataram,Kota Mataram,102
+56831,1814,Labuan Lombok,Labuan Lombok,102
+56843,1814,Lembar,Lembar,102
+56865,1814,Mataram,Mataram,102
+56931,1814,Pemenang,Pemenang,102
+56938,1814,Pototano,Pototano,102
+56940,1814,Praya,Praya,102
+56966,1814,Senggigi,Senggigi,102
+57002,1814,Sumbawa Besar,Sumbawa Besar,102
+56184,1818,Atambua,Atambua,102
+56272,1818,Ende,Ende,102
+56319,1818,Kabupaten Alor,Kabupaten Alor,102
+56352,1818,Kabupaten Belu,Kabupaten Belu,102
+56403,1818,Kabupaten Ende,Kabupaten Ende,102
+56406,1818,Kabupaten Flores Timur,Kabupaten Flores Timur,102
+56475,1818,Kabupaten Kupang,Kabupaten Kupang,102
+56493,1818,Kabupaten Lembata,Kabupaten Lembata,102
+56510,1818,Kabupaten Malaka,Kabupaten Malaka,102
+56524,1818,Kabupaten Manggarai,Kabupaten Manggarai,102
+56525,1818,Kabupaten Manggarai Barat,Kabupaten Manggarai Barat,102
+56526,1818,Kabupaten Manggarai Timur,Kabupaten Manggarai Timur,102
+56553,1818,Kabupaten Nagekeo,Kabupaten Nagekeo,102
+56556,1818,Kabupaten Ngada,Kabupaten Ngada,102
+56613,1818,Kabupaten Rote Ndao,Kabupaten Rote Ndao,102
+56614,1818,Kabupaten Sabu Raijua,Kabupaten Sabu Raijua,102
+56632,1818,Kabupaten Sikka,Kabupaten Sikka,102
+56648,1818,Kabupaten Sumba Barat,Kabupaten Sumba Barat,102
+56649,1818,Kabupaten Sumba Barat Daya,Kabupaten Sumba Barat Daya,102
+56650,1818,Kabupaten Sumba Tengah,Kabupaten Sumba Tengah,102
+56651,1818,Kabupaten Sumba Timur,Kabupaten Sumba Timur,102
+56680,1818,Kabupaten Timor Tengah Selatan,Kabupaten Timor Tengah Selatan,102
+56681,1818,Kabupaten Timor Tengah Utara,Kabupaten Timor Tengah Utara,102
+56710,1818,Kefamenanu,Kefamenanu,102
+56721,1818,Komodo,Komodo,102
+56760,1818,Kota Kupang,Kota Kupang,102
+56826,1818,Kupang,Kupang,102
+56830,1818,Labuan Bajo,Labuan Bajo,102
+56866,1818,Maumere,Maumere,102
+56883,1818,Naisano Dua,Naisano Dua,102
+56956,1818,Ruteng,Ruteng,102
+56989,1818,Soe,Soe,102
+57048,1818,Waingapu,Waingapu,102
+56173,1798,Abepura,Abepura,102
+56220,1798,Biak,Biak,102
+56292,1798,Insrom,Insrom,102
+56299,1798,Jayapura,Jayapura,102
+56321,1798,Kabupaten Asmat,Kabupaten Asmat,102
+56359,1798,Kabupaten Biak Numfor,Kabupaten Biak Numfor,102
+56376,1798,Kabupaten Boven Digoel,Kabupaten Boven Digoel,102
+56395,1798,Kabupaten Deiyai,Kabupaten Deiyai,102
+56399,1798,Kabupaten Dogiyai,Kabupaten Dogiyai,102
+56427,1798,Kabupaten Intan Jaya,Kabupaten Intan Jaya,102
+56428,1798,Kabupaten Jayapura,Kabupaten Jayapura,102
+56429,1798,Kabupaten Jayawijaya,Kabupaten Jayawijaya,102
+56447,1798,Kabupaten Keerom,Kabupaten Keerom,102
+56457,1798,Kabupaten Kepulauan Yapen,Kabupaten Kepulauan Yapen,102
+56490,1798,Kabupaten Lanny Jaya,Kabupaten Lanny Jaya,102
+56518,1798,Kabupaten Mamberamo Raya,Kabupaten Mamberamo Raya,102
+56519,1798,Kabupaten Mamberamo Tengah,Kabupaten Mamberamo Tengah,102
+56529,1798,Kabupaten Mappi,Kabupaten Mappi,102
+56533,1798,Kabupaten Merauke,Kabupaten Merauke,102
+56535,1798,Kabupaten Mimika,Kabupaten Mimika,102
+56551,1798,Kabupaten Nabire,Kabupaten Nabire,102
+56555,1798,Kabupaten Nduga,Kabupaten Nduga,102
+56577,1798,Kabupaten Paniai,Kabupaten Paniai,102
+56584,1798,Kabupaten Pegunungan Bintang,Kabupaten Pegunungan Bintang,102
+56604,1798,Kabupaten Puncak Jaya,Kabupaten Puncak Jaya,102
+56617,1798,Kabupaten Sarmi,Kabupaten Sarmi,102
+56656,1798,Kabupaten Supiori,Kabupaten Supiori,102
+56683,1798,Kabupaten Tolikara,Kabupaten Tolikara,102
+56690,1798,Kabupaten Waropen,Kabupaten Waropen,102
+56694,1798,Kabupaten Yahukimo,Kabupaten Yahukimo,102
+56695,1798,Kabupaten Yalimo,Kabupaten Yalimo,102
+56756,1798,Kota Jayapura,Kota Jayapura,102
+56882,1798,Nabire,Nabire,102
+56405,1799,Kabupaten Fakfak,Kabupaten Fakfak,102
+56435,1799,Kabupaten Kaimana,Kabupaten Kaimana,102
+56527,1799,Kabupaten Manokwari,Kabupaten Manokwari,102
+56528,1799,Kabupaten Manokwari Selatan,Kabupaten Manokwari Selatan,102
+56531,1799,Kabupaten Maybrat,Kabupaten Maybrat,102
+56608,1799,Kabupaten Raja Ampat,Kabupaten Raja Ampat,102
+56641,1799,Kabupaten Sorong,Kabupaten Sorong,102
+56642,1799,Kabupaten Sorong Selatan,Kabupaten Sorong Selatan,102
+56660,1799,Kabupaten Tambrauw,Kabupaten Tambrauw,102
+56677,1799,Kabupaten Teluk Bintuni,Kabupaten Teluk Bintuni,102
+56678,1799,Kabupaten Teluk Wondama,Kabupaten Teluk Wondama,102
+56799,1799,Kota Sorong,Kota Sorong,102
+56860,1799,Manokwari,Manokwari,102
+56995,1799,Sorong,Sorong,102
+56188,1809,Balaipungut,Balaipungut,102
+56208,1809,Batam,Batam,102
+56270,1809,Dumai,Dumai,102
+56354,1809,Kabupaten Bengkalis,Kabupaten Bengkalis,102
+56424,1809,Kabupaten Indragiri Hilir,Kabupaten Indragiri Hilir,102
+56425,1809,Kabupaten Indragiri Hulu,Kabupaten Indragiri Hulu,102
+56436,1809,Kabupaten Kampar,Kabupaten Kampar,102
+56453,1809,Kabupaten Kepulauan Meranti,Kabupaten Kepulauan Meranti,102
+56471,1809,Kabupaten Kuantan Singingi,Kabupaten Kuantan Singingi,102
+56586,1809,Kabupaten Pelalawan,Kabupaten Pelalawan,102
+56611,1809,Kabupaten Rokan Hilir,Kabupaten Rokan Hilir,102
+56612,1809,Kabupaten Rokan Hulu,Kabupaten Rokan Hulu,102
+56626,1809,Kabupaten Siak,Kabupaten Siak,102
+56752,1809,Kota Dumai,Kota Dumai,102
+56787,1809,Kota Pekanbaru,Kota Pekanbaru,102
+56927,1809,Pekanbaru,Pekanbaru,102
+56509,1817,Kabupaten Majene,Kabupaten Majene,102
+56517,1817,Kabupaten Mamasa,Kabupaten Mamasa,102
+56520,1817,Kabupaten Mamuju,Kabupaten Mamuju,102
+56521,1817,Kabupaten Mamuju Tengah,Kabupaten Mamuju Tengah,102
+56522,1817,Kabupaten Mamuju Utara,Kabupaten Mamuju Utara,102
+56596,1817,Kabupaten Polewali Mandar,Kabupaten Polewali Mandar,102
+56854,1817,Majene,Majene,102
+56857,1817,Mamuju,Mamuju,102
+56935,1817,Polewali,Polewali,102
+56273,1795,Galesong,Galesong,102
+56337,1795,Kabupaten Bantaeng,Kabupaten Bantaeng,102
+56345,1795,Kabupaten Barru,Kabupaten Barru,102
+56374,1795,Kabupaten Bone,Kabupaten Bone,102
+56380,1795,Kabupaten Bulukumba,Kabupaten Bulukumba,102
+56404,1795,Kabupaten Enrekang,Kabupaten Enrekang,102
+56412,1795,Kabupaten Gowa,Kabupaten Gowa,102
+56432,1795,Kabupaten Jeneponto,Kabupaten Jeneponto,102
+56501,1795,Kabupaten Luwu,Kabupaten Luwu,102
+56502,1795,Kabupaten Luwu Timur,Kabupaten Luwu Timur,102
+56503,1795,Kabupaten Luwu Utara,Kabupaten Luwu Utara,102
+56530,1795,Kabupaten Maros,Kabupaten Maros,102
+56576,1795,Kabupaten Pangkajene Dan Kepulauan,Kabupaten Pangkajene Dan Kepulauan,102
+56594,1795,Kabupaten Pinrang,Kabupaten Pinrang,102
+56628,1795,Kabupaten Sidenreng Rappang,Kabupaten Sidenreng Rappang,102
+56635,1795,Kabupaten Sinjai,Kabupaten Sinjai,102
+56640,1795,Kabupaten Soppeng,Kabupaten Soppeng,102
+56659,1795,Kabupaten Takalar,Kabupaten Takalar,102
+56662,1795,Kabupaten Tana Toraja,Kabupaten Tana Toraja,102
+56684,1795,Kabupaten Toraja Utara,Kabupaten Toraja Utara,102
+56689,1795,Kabupaten Wajo,Kabupaten Wajo,102
+56766,1795,Kota Makassar,Kota Makassar,102
+56779,1795,Kota Palopo,Kota Palopo,102
+56782,1795,Kota Parepare,Kota Parepare,102
+56855,1795,Makassar,Makassar,102
+56863,1795,Maros,Maros,102
+56900,1795,Palopo,Palopo,102
+56916,1795,Parepare,Parepare,102
+56952,1795,Rantepao,Rantepao,102
+56963,1795,Selayar Islands Regency,Selayar Islands Regency,102
+56967,1795,Sengkang,Sengkang,102
+56985,1795,Sinjai,Sinjai,102
+57052,1795,Watampone,Watampone,102
+56326,1813,Kabupaten Banggai,Kabupaten Banggai,102
+56327,1813,Kabupaten Banggai Kepulauan,Kabupaten Banggai Kepulauan,102
+56328,1813,Kabupaten Banggai Laut,Kabupaten Banggai Laut,102
+56383,1813,Kabupaten Buol,Kabupaten Buol,102
+56401,1813,Kabupaten Donggala,Kabupaten Donggala,102
+56541,1813,Kabupaten Morowali Utara,Kabupaten Morowali Utara,102
+56578,1813,Kabupaten Parigi Moutong,Kabupaten Parigi Moutong,102
+56598,1813,Kabupaten Poso,Kabupaten Poso,102
+56630,1813,Kabupaten Sigi,Kabupaten Sigi,102
+56682,1813,Kabupaten Toli-Toli,Kabupaten Toli-Toli,102
+56780,1813,Kota Palu,Kota Palu,102
+56849,1813,Luwuk,Luwuk,102
+56876,1813,Morowali Regency,Morowali Regency,102
+56901,1813,Palu,Palu,102
+56937,1813,Poso,Poso,102
+57034,1813,Tojo Una-Una Regency,Tojo Una-Una Regency,102
+56372,1796,Kabupaten Bombana,Kabupaten Bombana,102
+56386,1796,Kabupaten Buton,Kabupaten Buton,102
+56387,1796,Kabupaten Buton Selatan,Kabupaten Buton Selatan,102
+56388,1796,Kabupaten Buton Tengah,Kabupaten Buton Tengah,102
+56389,1796,Kabupaten Buton Utara,Kabupaten Buton Utara,102
+56461,1796,Kabupaten Kolaka,Kabupaten Kolaka,102
+56462,1796,Kabupaten Kolaka Timur,Kabupaten Kolaka Timur,102
+56463,1796,Kabupaten Kolaka Utara,Kabupaten Kolaka Utara,102
+56464,1796,Kabupaten Konawe,Kabupaten Konawe,102
+56465,1796,Kabupaten Konawe Kepulauan,Kabupaten Konawe Kepulauan,102
+56466,1796,Kabupaten Konawe Selatan,Kabupaten Konawe Selatan,102
+56467,1796,Kabupaten Konawe Utara,Kabupaten Konawe Utara,102
+56545,1796,Kabupaten Muna,Kabupaten Muna,102
+56546,1796,Kabupaten Muna Barat,Kabupaten Muna Barat,102
+56703,1796,Katabu,Katabu,102
+56712,1796,Kendari,Kendari,102
+56737,1796,Kota Baubau,Kota Baubau,102
+56758,1796,Kota Kendari,Kota Kendari,102
+57049,1796,Wakatobi Regency,Wakatobi Regency,102
+56368,1808,Kabupaten Bolaang Mongondow,Kabupaten Bolaang Mongondow,102
+56369,1808,Kabupaten Bolaang Mongondow Selatan,Kabupaten Bolaang Mongondow Selatan,102
+56370,1808,Kabupaten Bolaang Mongondow Timur,Kabupaten Bolaang Mongondow Timur,102
+56371,1808,Kabupaten Bolaang Mongondow Utara,Kabupaten Bolaang Mongondow Utara,102
+56454,1808,Kabupaten Kepulauan Sangihe,Kabupaten Kepulauan Sangihe,102
+56456,1808,Kabupaten Kepulauan Talaud,Kabupaten Kepulauan Talaud,102
+56536,1808,Kabupaten Minahasa,Kabupaten Minahasa,102
+56537,1808,Kabupaten Minahasa Selatan,Kabupaten Minahasa Selatan,102
+56538,1808,Kabupaten Minahasa Tenggara,Kabupaten Minahasa Tenggara,102
+56539,1808,Kabupaten Minahasa Utara,Kabupaten Minahasa Utara,102
+56627,1808,Kabupaten Siau Tagulandang Biaro,Kabupaten Siau Tagulandang Biaro,102
+56742,1808,Kota Bitung,Kota Bitung,102
+56759,1808,Kota Kotamobagu,Kota Kotamobagu,102
+56768,1808,Kota Manado,Kota Manado,102
+56814,1808,Kota Tomohon,Kota Tomohon,102
+56835,1808,"Laikit, Laikit II (Dimembe)","Laikit, Laikit II (Dimembe)",102
+56858,1808,Manado,Manado,102
+57035,1808,Tomohon,Tomohon,102
+57037,1808,Tondano,Tondano,102
+56234,1828,Bukittinggi,Bukittinggi,102
+56318,1828,Kabupaten Agam,Kabupaten Agam,102
+56398,1828,Kabupaten Dharmasraya,Kabupaten Dharmasraya,102
+56452,1828,Kabupaten Kepulauan Mentawai,Kabupaten Kepulauan Mentawai,102
+56494,1828,Kabupaten Lima Puluh Kota,Kabupaten Lima Puluh Kota,102
+56571,1828,Kabupaten Padang Pariaman,Kabupaten Padang Pariaman,102
+56579,1828,Kabupaten Pasaman,Kabupaten Pasaman,102
+56580,1828,Kabupaten Pasaman Barat,Kabupaten Pasaman Barat,102
+56592,1828,Kabupaten Pesisir Selatan,Kabupaten Pesisir Selatan,102
+56631,1828,Kabupaten Sijunjung,Kabupaten Sijunjung,102
+56638,1828,Kabupaten Solok,Kabupaten Solok,102
+56639,1828,Kabupaten Solok Selatan,Kabupaten Solok Selatan,102
+56664,1828,Kabupaten Tanah Datar,Kabupaten Tanah Datar,102
+56746,1828,Kota Bukittinggi,Kota Bukittinggi,102
+56773,1828,Kota Padang,Kota Padang,102
+56774,1828,Kota Padang Panjang,Kota Padang Panjang,102
+56783,1828,Kota Pariaman,Kota Pariaman,102
+56785,1828,Kota Payakumbuh,Kota Payakumbuh,102
+56794,1828,Kota Sawah Lunto,Kota Sawah Lunto,102
+56798,1828,Kota Solok,Kota Solok,102
+56893,1828,Padang,Padang,102
+56917,1828,Pariaman,Pariaman,102
+56923,1828,Payakumbuh,Payakumbuh,102
+56977,1828,Sijunjung,Sijunjung,102
+56993,1828,Solok,Solok,102
+56212,1816,Baturaja,Baturaja,102
+56402,1816,Kabupaten Empat Lawang,Kabupaten Empat Lawang,102
+56542,1816,Kabupaten Muara Enim,Kabupaten Muara Enim,102
+56548,1816,Kabupaten Musi Banyuasin,Kabupaten Musi Banyuasin,102
+56549,1816,Kabupaten Musi Rawas,Kabupaten Musi Rawas,102
+56550,1816,Kabupaten Musi Rawas Utara,Kabupaten Musi Rawas Utara,102
+56563,1816,Kabupaten Ogan Ilir,Kabupaten Ogan Ilir,102
+56564,1816,Kabupaten Ogan Komering Ilir,Kabupaten Ogan Komering Ilir,102
+56565,1816,Kabupaten Ogan Komering Ulu,Kabupaten Ogan Komering Ulu,102
+56566,1816,Kabupaten Ogan Komering Ulu Selatan,Kabupaten Ogan Komering Ulu Selatan,102
+56567,1816,Kabupaten Ogan Komering Ulu Timur,Kabupaten Ogan Komering Ulu Timur,102
+56589,1816,Kabupaten Penukal Abab Lematang Ilir,Kabupaten Penukal Abab Lematang Ilir,102
+56763,1816,Kota Lubuklinggau,Kota Lubuklinggau,102
+56776,1816,Kota Pagar Alam,Kota Pagar Alam,102
+56778,1816,Kota Palembang,Kota Palembang,102
+56789,1816,Kota Prabumulih,Kota Prabumulih,102
+56833,1816,Lahat,Lahat,102
+56834,1816,Lahat Regency,Lahat Regency,102
+56847,1816,Lubuklinggau,Lubuklinggau,102
+56895,1816,Pagar Alam,Pagar Alam,102
+56898,1816,Palembang,Palembang,102
+56939,1816,Prabumulih,Prabumulih,102
+57020,1816,Tanjungagung,Tanjungagung,102
+56177,1792,Ambarita,Ambarita,102
+56194,1792,Bandar,Bandar,102
+56216,1792,Belawan,Belawan,102
+56218,1792,Berastagi,Berastagi,102
+56222,1792,Binjai,Binjai,102
+56261,1792,Deli Tua,Deli Tua,102
+56290,1792,Gunungsitoli,Gunungsitoli,102
+56306,1792,Kabanjahe,Kabanjahe,102
+56320,1792,Kabupaten Asahan,Kabupaten Asahan,102
+56348,1792,Kabupaten Batu Bara,Kabupaten Batu Bara,102
+56394,1792,Kabupaten Dairi,Kabupaten Dairi,102
+56396,1792,Kabupaten Deli Serdang,Kabupaten Deli Serdang,102
+56423,1792,Kabupaten Humbang Hasundutan,Kabupaten Humbang Hasundutan,102
+56442,1792,Kabupaten Karo,Kabupaten Karo,102
+56479,1792,Kabupaten Labuhan Batu,Kabupaten Labuhan Batu,102
+56480,1792,Kabupaten Labuhan Batu Selatan,Kabupaten Labuhan Batu Selatan,102
+56481,1792,Kabupaten Labuhan Batu Utara,Kabupaten Labuhan Batu Utara,102
+56489,1792,Kabupaten Langkat,Kabupaten Langkat,102
+56523,1792,Kabupaten Mandailing Natal,Kabupaten Mandailing Natal,102
+56559,1792,Kabupaten Nias,Kabupaten Nias,102
+56560,1792,Kabupaten Nias Barat,Kabupaten Nias Barat,102
+56561,1792,Kabupaten Nias Utara,Kabupaten Nias Utara,102
+56569,1792,Kabupaten Padang Lawas,Kabupaten Padang Lawas,102
+56570,1792,Kabupaten Padang Lawas Utara,Kabupaten Padang Lawas Utara,102
+56572,1792,Kabupaten Pakpak Bharat,Kabupaten Pakpak Bharat,102
+56615,1792,Kabupaten Samosir,Kabupaten Samosir,102
+56624,1792,Kabupaten Serdang Bedagai,Kabupaten Serdang Bedagai,102
+56633,1792,Kabupaten Simalungun,Kabupaten Simalungun,102
+56670,1792,Kabupaten Tapanuli Selatan,Kabupaten Tapanuli Selatan,102
+56671,1792,Kabupaten Tapanuli Tengah,Kabupaten Tapanuli Tengah,102
+56672,1792,Kabupaten Tapanuli Utara,Kabupaten Tapanuli Utara,102
+56717,1792,Kisaran,Kisaran,102
+56741,1792,Kota Binjai,Kota Binjai,102
+56754,1792,Kota Gunungsitoli,Kota Gunungsitoli,102
+56770,1792,Kota Medan,Kota Medan,102
+56775,1792,Kota Padangsidimpuan,Kota Padangsidimpuan,102
+56788,1792,Kota Pematang Siantar,Kota Pematang Siantar,102
+56797,1792,Kota Sibolga,Kota Sibolga,102
+56807,1792,Kota Tanjung Balai,Kota Tanjung Balai,102
+56810,1792,Kota Tebing Tinggi,Kota Tebing Tinggi,102
+56832,1792,Labuhan Deli,Labuhan Deli,102
+56867,1792,Medan,Medan,102
+56894,1792,Padangsidempuan,Padangsidempuan,102
+56910,1792,Pangkalan Brandan,Pangkalan Brandan,102
+56914,1792,Parapat,Parapat,102
+56926,1792,Pekan Bahapal,Pekan Bahapal,102
+56930,1792,Pematangsiantar,Pematangsiantar,102
+56932,1792,Perbaungan,Perbaungan,102
+56933,1792,Percut,Percut,102
+56951,1792,Rantauprapat,Rantauprapat,102
+56973,1792,Sibolga,Sibolga,102
+57000,1792,Stabat,Stabat,102
+57010,1792,Sunggal,Sunggal,102
+57021,1792,Tanjungbalai,Tanjungbalai,102
+57022,1792,Tanjungtiram,Tanjungtiram,102
+57027,1792,Tebingtinggi,Tebingtinggi,102
+57029,1792,Teluk Nibung,Teluk Nibung,102
+57036,1792,Tomok Bolon,Tomok Bolon,102
+57038,1792,Tongging,Tongging,102
+57043,1792,Tuktuk Sonak,Tuktuk Sonak,102
