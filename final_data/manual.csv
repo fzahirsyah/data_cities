@@ -1,0 +1,906 @@
+name,state_name,state_id,id
+Banda Aceh,Aceh,1822,56193
+Bireun,Aceh,1822,56223
+Kabupaten Aceh Barat,Aceh,1822,56307
+Kabupaten Aceh Barat Daya,Aceh,1822,56308
+Kabupaten Aceh Besar,Aceh,1822,56309
+Kabupaten Aceh Jaya,Aceh,1822,56310
+Kabupaten Aceh Selatan,Aceh,1822,56311
+Kabupaten Aceh Singkil,Aceh,1822,56312
+Kabupaten Aceh Tamiang,Aceh,1822,56313
+Kabupaten Aceh Tengah,Aceh,1822,56314
+Kabupaten Aceh Tenggara,Aceh,1822,56315
+Kabupaten Aceh Timur,Aceh,1822,56316
+Kabupaten Aceh Utara,Aceh,1822,56317
+Kabupaten Bener Meriah,Aceh,1822,56353
+Kabupaten Bireuen,Aceh,1822,56362
+Kabupaten Gayo Lues,Aceh,1822,56408
+Kabupaten Nagan Raya,Aceh,1822,56552
+Kabupaten Pidie,Aceh,1822,56593
+Kabupaten Simeulue,Aceh,1822,56634
+Kota Banda Aceh,Aceh,1822,56729
+Kota Langsa,Aceh,1822,56761
+Kota Lhokseumawe,Aceh,1822,56762
+Kota Sabang,Aceh,1822,56791
+Kota Subulussalam,Aceh,1822,56800
+Langsa,Aceh,1822,56837
+Lhokseumawe,Aceh,1822,56844
+Meulaboh,Aceh,1822,56872
+Reuleuet,Aceh,1822,56955
+Sabang,Aceh,1822,56957
+Sigli,Aceh,1822,56976
+Sinabang,Aceh,1822,56979
+Singkil,Aceh,1822,56982
+Amlapura,Bali,1826,56179
+Amlapura city,Bali,1826,56180
+Banjar,Bali,1826,56200
+Banjar Wangsian,Bali,1826,56201
+Bedugul,Bali,1826,56213
+Denpasar,Bali,1826,56263
+Jimbaran,Bali,1826,56302
+Kabupaten Badung,Bali,1826,56322
+Kabupaten Bangli,Bali,1826,56334
+Kabupaten Buleleng,Bali,1826,56379
+Kabupaten Gianyar,Bali,1826,56409
+Kabupaten Jembrana,Bali,1826,56431
+Kabupaten Karang Asem,Bali,1826,56438
+Kabupaten Klungkung,Bali,1826,56460
+Kabupaten Tabanan,Bali,1826,56658
+Klungkung,Bali,1826,56720
+Kota Denpasar,Bali,1826,56750
+Kuta,Bali,1826,56827
+Legian,Bali,1826,56841
+Lovina,Bali,1826,56846
+Munduk,Bali,1826,56879
+Negara,Bali,1826,56884
+Nusa Dua,Bali,1826,56890
+Seririt,Bali,1826,56970
+Singaraja,Bali,1826,56981
+Tabanan,Bali,1826,57013
+Ubud,Bali,1826,57046
+Curug,Banten,1810,56257
+Kabupaten Lebak,Banten,1810,56491
+Kabupaten Pandeglang,Banten,1810,56574
+Kabupaten Serang,Banten,1810,56623
+Kabupaten Tangerang,Banten,1810,56666
+Kota Cilegon,Banten,1810,56747
+Kota Serang,Banten,1810,56796
+Kota Tangerang,Banten,1810,56805
+Kota Tangerang Selatan,Banten,1810,56806
+Labuan,Banten,1810,56829
+Pandeglang,Banten,1810,56909
+Rangkasbitung,Banten,1810,56950
+Serang,Banten,1810,56969
+South Tangerang,Banten,1810,56996
+Tangerang,Banten,1810,57014
+Bengkulu,Bengkulu,1793,56217
+Curup,Bengkulu,1793,56258
+Kabupaten Bengkulu Selatan,Bengkulu,1793,56355
+Kabupaten Bengkulu Tengah,Bengkulu,1793,56356
+Kabupaten Bengkulu Utara,Bengkulu,1793,56357
+Kabupaten Kaur,Bengkulu,1793,56444
+Kabupaten Kepahiang,Bengkulu,1793,56449
+Kabupaten Lebong,Bengkulu,1793,56492
+Kabupaten Mukomuko,Bengkulu,1793,56544
+Kabupaten Rejang Lebong,Bengkulu,1793,56609
+Kabupaten Seluma,Bengkulu,1793,56619
+Kota Bengkulu,Bengkulu,1793,56739
+Bambanglipuro,DI Yogyakarta,1829,56192
+Bantul,DI Yogyakarta,1829,56204
+Depok,DI Yogyakarta,1829,56264
+Gamping Lor,DI Yogyakarta,1829,56276
+Godean,DI Yogyakarta,1829,56282
+Kabupaten Bantul,DI Yogyakarta,1829,56338
+Kabupaten Gunung Kidul,DI Yogyakarta,1829,56414
+Kabupaten Kulon Progo,DI Yogyakarta,1829,56473
+Kabupaten Sleman,DI Yogyakarta,1829,56637
+Kasihan,DI Yogyakarta,1829,56702
+Kota Yogyakarta,DI Yogyakarta,1829,56816
+Melati,DI Yogyakarta,1829,56868
+Pandak,DI Yogyakarta,1829,56908
+Pundong,DI Yogyakarta,1829,56943
+Sewon,DI Yogyakarta,1829,56972
+Sleman,DI Yogyakarta,1829,56988
+Srandakan,DI Yogyakarta,1829,56998
+Yogyakarta,DI Yogyakarta,1829,57061
+Jakarta,DKI Jakarta,1805,56293
+Kota Administrasi Jakarta Barat,DKI Jakarta,1805,56722
+Kota Administrasi Jakarta Pusat,DKI Jakarta,1805,56723
+Kota Administrasi Jakarta Selatan,DKI Jakarta,1805,56724
+Kota Administrasi Jakarta Timur,DKI Jakarta,1805,56725
+Kota Administrasi Jakarta Utara,DKI Jakarta,1805,56726
+Gorontalo,Gorontalo,1812,56285
+Kabupaten Boalemo,Gorontalo,1812,56365
+Kabupaten Bone Bolango,Gorontalo,1812,56375
+Kabupaten Gorontalo,Gorontalo,1812,56410
+Kabupaten Gorontalo Utara,Gorontalo,1812,56411
+Kabupaten Pohuwato,Gorontalo,1812,56595
+Kota Gorontalo,Gorontalo,1812,56753
+Bejubang Dua,Jambi,1815,56214
+Jambi City,Jambi,1815,56294
+Kabupaten Batang Hari,Jambi,1815,56347
+Kabupaten Bungo,Jambi,1815,56382
+Kabupaten Kerinci,Jambi,1815,56458
+Kabupaten Merangin,Jambi,1815,56532
+Kabupaten Muaro Jambi,Jambi,1815,56543
+Kabupaten Sarolangun,Jambi,1815,56618
+Kabupaten Tanjung Jabung Barat,Jambi,1815,56668
+Kabupaten Tanjung Jabung Timur,Jambi,1815,56669
+Kabupaten Tebo,Jambi,1815,56675
+Kota Jambi,Jambi,1815,56755
+Kota Sungai Penuh,Jambi,1815,56802
+Kuala Tungkal,Jambi,1815,56822
+Mendaha,Jambi,1815,56869
+Simpang,Jambi,1815,56978
+Sungai Penuh,Jambi,1815,57008
+Arjawinangun,Jawa Barat,1825,56182
+Astanajapura,Jawa Barat,1825,56183
+Bandung,Jawa Barat,1825,56196
+Banjar,Jawa Barat,1825,56199
+Banjaran,Jawa Barat,1825,56202
+Bekasi,Jawa Barat,1825,56215
+Bogor,Jawa Barat,1825,56226
+Caringin,Jawa Barat,1825,56237
+Ciamis,Jawa Barat,1825,56240
+Ciampea,Jawa Barat,1825,56241
+Cibinong,Jawa Barat,1825,56242
+Cicurug,Jawa Barat,1825,56243
+Cikampek,Jawa Barat,1825,56244
+Cikarang,Jawa Barat,1825,56245
+Cikupa,Jawa Barat,1825,56246
+Cileungsir,Jawa Barat,1825,56247
+Cileunyi,Jawa Barat,1825,56248
+Cimahi,Jawa Barat,1825,56249
+Ciputat,Jawa Barat,1825,56250
+Ciranjang-hilir,Jawa Barat,1825,56251
+Cirebon,Jawa Barat,1825,56252
+Citeureup,Jawa Barat,1825,56253
+Depok,Jawa Barat,1825,56265
+Indramayu,Jawa Barat,1825,56291
+Jatibarang,Jawa Barat,1825,56296
+Jatiwangi,Jawa Barat,1825,56298
+Kabupaten Bandung,Jawa Barat,1825,56324
+Kabupaten Bandung Barat,Jawa Barat,1825,56325
+Kabupaten Bekasi,Jawa Barat,1825,56349
+Kabupaten Bogor,Jawa Barat,1825,56366
+Kabupaten Ciamis,Jawa Barat,1825,56390
+Kabupaten Cianjur,Jawa Barat,1825,56391
+Kabupaten Cirebon,Jawa Barat,1825,56393
+Kabupaten Garut,Jawa Barat,1825,56407
+Kabupaten Indramayu,Jawa Barat,1825,56426
+Kabupaten Karawang,Jawa Barat,1825,56440
+Kabupaten Kuningan,Jawa Barat,1825,56474
+Kabupaten Majalengka,Jawa Barat,1825,56508
+Kabupaten Pangandaran,Jawa Barat,1825,56575
+Kabupaten Purwakarta,Jawa Barat,1825,56606
+Kabupaten Subang,Jawa Barat,1825,56644
+Kabupaten Sukabumi,Jawa Barat,1825,56645
+Kabupaten Sumedang,Jawa Barat,1825,56654
+Kabupaten Tasikmalaya,Jawa Barat,1825,56674
+Karangampel,Jawa Barat,1825,56698
+Karangsembung,Jawa Barat,1825,56700
+Kawalu,Jawa Barat,1825,56704
+Klangenan,Jawa Barat,1825,56718
+Kota Bandung,Jawa Barat,1825,56731
+Kota Banjar,Jawa Barat,1825,56732
+Kota Bekasi,Jawa Barat,1825,56738
+Kota Bogor,Jawa Barat,1825,56744
+Kota Cimahi,Jawa Barat,1825,56748
+Kota Cirebon,Jawa Barat,1825,56749
+Kota Depok,Jawa Barat,1825,56751
+Kota Sukabumi,Jawa Barat,1825,56801
+Kota Tasikmalaya,Jawa Barat,1825,56809
+Kresek,Jawa Barat,1825,56819
+Kuningan,Jawa Barat,1825,56825
+Lembang,Jawa Barat,1825,56842
+Majalengka,Jawa Barat,1825,56852
+Margahayukencana,Jawa Barat,1825,56861
+Ngawi,Jawa Barat,1825,56886
+Padalarang,Jawa Barat,1825,56892
+Palimanan,Jawa Barat,1825,56899
+Pamanukan,Jawa Barat,1825,56902
+Pameungpeuk,Jawa Barat,1825,56904
+Pamulang,Jawa Barat,1825,56905
+Parung,Jawa Barat,1825,56918
+Pasarkemis,Jawa Barat,1825,56919
+Paseh,Jawa Barat,1825,56920
+Pelabuhanratu,Jawa Barat,1825,56928
+Plumbon,Jawa Barat,1825,56934
+Purwakarta,Jawa Barat,1825,56945
+Rajapolah,Jawa Barat,1825,56948
+Rengasdengklok,Jawa Barat,1825,56954
+Sawangan,Jawa Barat,1825,56962
+Sepatan,Jawa Barat,1825,56968
+Serpong,Jawa Barat,1825,56971
+Singaparna,Jawa Barat,1825,56980
+Soreang,Jawa Barat,1825,56994
+Sukabumi,Jawa Barat,1825,57001
+Sumber,Jawa Barat,1825,57003
+Sumedang,Jawa Barat,1825,57005
+Sumedang Utara,Jawa Barat,1825,57006
+Tasikmalaya,Jawa Barat,1825,57025
+Teluknaga,Jawa Barat,1825,57030
+Wanaraja,Jawa Barat,1825,57050
+Weru,Jawa Barat,1825,57056
+Adiwerna,Jawa Tengah,1802,56174
+Ambarawa,Jawa Tengah,1802,56176
+Baekrajan,Jawa Tengah,1802,56186
+Baki,Jawa Tengah,1802,56187
+Balapulang,Jawa Tengah,1802,56189
+Banyumas,Jawa Tengah,1802,56205
+Batang,Jawa Tengah,1802,56209
+Baturaden,Jawa Tengah,1802,56211
+Blora,Jawa Tengah,1802,56225
+Boyolali,Jawa Tengah,1802,56230
+Buaran,Jawa Tengah,1802,56232
+Bulakamba,Jawa Tengah,1802,56235
+Candi Prambanan,Jawa Tengah,1802,56236
+Ceper,Jawa Tengah,1802,56238
+Cepu,Jawa Tengah,1802,56239
+Colomadu,Jawa Tengah,1802,56255
+Comal,Jawa Tengah,1802,56256
+Delanggu,Jawa Tengah,1802,56260
+Demak,Jawa Tengah,1802,56262
+Dukuhturi,Jawa Tengah,1802,56269
+Gatak,Jawa Tengah,1802,56277
+Gebog,Jawa Tengah,1802,56278
+Gombong,Jawa Tengah,1802,56283
+Grogol,Jawa Tengah,1802,56288
+Gunung Kendil,Jawa Tengah,1802,56289
+Jaten,Jawa Tengah,1802,56295
+Jatiroto,Jawa Tengah,1802,56297
+Jekulo,Jawa Tengah,1802,56300
+Jogonalan,Jawa Tengah,1802,56303
+Juwana,Jawa Tengah,1802,56305
+Kabupaten Banjarnegara,Jawa Tengah,1802,56336
+Kabupaten Banyumas,Jawa Tengah,1802,56339
+Kabupaten Batang,Jawa Tengah,1802,56346
+Kabupaten Blora,Jawa Tengah,1802,56364
+Kabupaten Boyolali,Jawa Tengah,1802,56377
+Kabupaten Brebes,Jawa Tengah,1802,56378
+Kabupaten Cilacap,Jawa Tengah,1802,56392
+Kabupaten Demak,Jawa Tengah,1802,56397
+Kabupaten Grobogan,Jawa Tengah,1802,56413
+Kabupaten Jepara,Jawa Tengah,1802,56433
+Kabupaten Karanganyar,Jawa Tengah,1802,56439
+Kabupaten Kebumen,Jawa Tengah,1802,56445
+Kabupaten Kendal,Jawa Tengah,1802,56448
+Kabupaten Klaten,Jawa Tengah,1802,56459
+Kabupaten Kudus,Jawa Tengah,1802,56472
+Kabupaten Magelang,Jawa Tengah,1802,56505
+Kabupaten Pati,Jawa Tengah,1802,56583
+Kabupaten Pekalongan,Jawa Tengah,1802,56585
+Kabupaten Pemalang,Jawa Tengah,1802,56587
+Kabupaten Purbalingga,Jawa Tengah,1802,56605
+Kabupaten Purworejo,Jawa Tengah,1802,56607
+Kabupaten Rembang,Jawa Tengah,1802,56610
+Kabupaten Semarang,Jawa Tengah,1802,56620
+Kabupaten Sragen,Jawa Tengah,1802,56643
+Kabupaten Sukoharjo,Jawa Tengah,1802,56647
+Kabupaten Tegal,Jawa Tengah,1802,56676
+Kabupaten Temanggung,Jawa Tengah,1802,56679
+Kabupaten Wonogiri,Jawa Tengah,1802,56692
+Kabupaten Wonosobo,Jawa Tengah,1802,56693
+Karanganom,Jawa Tengah,1802,56699
+Kartasura,Jawa Tengah,1802,56701
+Kebonarun,Jawa Tengah,1802,56706
+Kedungwuni,Jawa Tengah,1802,56709
+Ketanggungan,Jawa Tengah,1802,56715
+Klaten,Jawa Tengah,1802,56719
+Kota Magelang,Jawa Tengah,1802,56765
+Kota Pekalongan,Jawa Tengah,1802,56786
+Kota Salatiga,Jawa Tengah,1802,56792
+Kota Semarang,Jawa Tengah,1802,56795
+Kota Surakarta,Jawa Tengah,1802,56804
+Kota Tegal,Jawa Tengah,1802,56811
+Kroya,Jawa Tengah,1802,56821
+Kudus,Jawa Tengah,1802,56824
+Kutoarjo,Jawa Tengah,1802,56828
+Lasem,Jawa Tengah,1802,56838
+Lebaksiu,Jawa Tengah,1802,56840
+Magelang,Jawa Tengah,1802,56851
+Majenang,Jawa Tengah,1802,56853
+Margasari,Jawa Tengah,1802,56862
+Mertoyudan,Jawa Tengah,1802,56870
+Mlonggo,Jawa Tengah,1802,56873
+Mranggen,Jawa Tengah,1802,56877
+Muntilan,Jawa Tengah,1802,56880
+Ngemplak,Jawa Tengah,1802,56887
+Pati,Jawa Tengah,1802,56922
+Pecangaan,Jawa Tengah,1802,56924
+Pekalongan,Jawa Tengah,1802,56925
+Pemalang,Jawa Tengah,1802,56929
+Purbalingga,Jawa Tengah,1802,56944
+Purwodadi,Jawa Tengah,1802,56946
+Purwokerto,Jawa Tengah,1802,56947
+Randudongkal,Jawa Tengah,1802,56949
+Rembangan,Jawa Tengah,1802,56953
+Salatiga,Jawa Tengah,1802,56958
+Selogiri,Jawa Tengah,1802,56964
+Semarang,Jawa Tengah,1802,56965
+Sidareja,Jawa Tengah,1802,56974
+Slawi,Jawa Tengah,1802,56987
+Sokaraja,Jawa Tengah,1802,56991
+Sragen,Jawa Tengah,1802,56997
+Surakarta,Jawa Tengah,1802,57012
+Tarub,Jawa Tengah,1802,57024
+Tayu,Jawa Tengah,1802,57026
+Tegal,Jawa Tengah,1802,57028
+Trucuk,Jawa Tengah,1802,57040
+Ungaran,Jawa Tengah,1802,57047
+Wangon,Jawa Tengah,1802,57051
+Wedi,Jawa Tengah,1802,57053
+Welahan,Jawa Tengah,1802,57054
+Weleri,Jawa Tengah,1802,57055
+Wiradesa,Jawa Tengah,1802,57057
+Wonopringgo,Jawa Tengah,1802,57059
+Wonosobo,Jawa Tengah,1802,57060
+Babat,Jawa Timur,1827,56185
+Balung,Jawa Timur,1827,56191
+Bangil,Jawa Timur,1827,56197
+Bangkalan,Jawa Timur,1827,56198
+Banyuwangi,Jawa Timur,1827,56206
+Batu,Jawa Timur,1827,56210
+Besuki,Jawa Timur,1827,56219
+Blitar,Jawa Timur,1827,56224
+Bojonegoro,Jawa Timur,1827,56227
+Bondowoso,Jawa Timur,1827,56228
+Boyolangu,Jawa Timur,1827,56231
+Buduran,Jawa Timur,1827,56233
+Dampit,Jawa Timur,1827,56259
+Diwek,Jawa Timur,1827,56266
+Driyorejo,Jawa Timur,1827,56268
+Gambiran Satu,Jawa Timur,1827,56274
+Gampengrejo,Jawa Timur,1827,56275
+Gedangan,Jawa Timur,1827,56279
+Genteng,Jawa Timur,1827,56280
+Gongdanglegi Kulon,Jawa Timur,1827,56284
+Gresik,Jawa Timur,1827,56286
+Gresik Regency,Jawa Timur,1827,56287
+Jember,Jawa Timur,1827,56301
+Jombang,Jawa Timur,1827,56304
+Kabupaten Bangkalan,Jawa Timur,1827,56333
+Kabupaten Banyuwangi,Jawa Timur,1827,56340
+Kabupaten Blitar,Jawa Timur,1827,56363
+Kabupaten Bojonegoro,Jawa Timur,1827,56367
+Kabupaten Bondowoso,Jawa Timur,1827,56373
+Kabupaten Jember,Jawa Timur,1827,56430
+Kabupaten Jombang,Jawa Timur,1827,56434
+Kabupaten Kediri,Jawa Timur,1827,56446
+Kabupaten Lamongan,Jawa Timur,1827,56483
+Kabupaten Lumajang,Jawa Timur,1827,56500
+Kabupaten Madiun,Jawa Timur,1827,56504
+Kabupaten Magetan,Jawa Timur,1827,56506
+Kabupaten Malang,Jawa Timur,1827,56511
+Kabupaten Mojokerto,Jawa Timur,1827,56540
+Kabupaten Nganjuk,Jawa Timur,1827,56557
+Kabupaten Ngawi,Jawa Timur,1827,56558
+Kabupaten Pacitan,Jawa Timur,1827,56568
+Kabupaten Pamekasan,Jawa Timur,1827,56573
+Kabupaten Pasuruan,Jawa Timur,1827,56582
+Kabupaten Ponorogo,Jawa Timur,1827,56597
+Kabupaten Probolinggo,Jawa Timur,1827,56600
+Kabupaten Sampang,Jawa Timur,1827,56616
+Kabupaten Sidoarjo,Jawa Timur,1827,56629
+Kabupaten Situbondo,Jawa Timur,1827,56636
+Kabupaten Sumenep,Jawa Timur,1827,56655
+Kabupaten Trenggalek,Jawa Timur,1827,56685
+Kabupaten Tuban,Jawa Timur,1827,56686
+Kabupaten Tulungagung,Jawa Timur,1827,56688
+Kalianget,Jawa Timur,1827,56696
+Kamal,Jawa Timur,1827,56697
+Kebomas,Jawa Timur,1827,56705
+Kediri,Jawa Timur,1827,56707
+Kedungwaru,Jawa Timur,1827,56708
+Kencong,Jawa Timur,1827,56711
+Kepanjen,Jawa Timur,1827,56713
+Kertosono,Jawa Timur,1827,56714
+Kota Batu,Jawa Timur,1827,56736
+Kota Blitar,Jawa Timur,1827,56743
+Kota Kediri,Jawa Timur,1827,56757
+Kota Madiun,Jawa Timur,1827,56764
+Kota Malang,Jawa Timur,1827,56767
+Kota Mojokerto,Jawa Timur,1827,56772
+Kota Pasuruan,Jawa Timur,1827,56784
+Kota Probolinggo,Jawa Timur,1827,56790
+Kota Surabaya,Jawa Timur,1827,56803
+Kraksaan,Jawa Timur,1827,56818
+Krian,Jawa Timur,1827,56820
+Lamongan,Jawa Timur,1827,56836
+Lawang,Jawa Timur,1827,56839
+Lumajang,Jawa Timur,1827,56848
+Madiun,Jawa Timur,1827,56850
+Malang,Jawa Timur,1827,56856
+Mojoagung,Jawa Timur,1827,56874
+Mojokerto,Jawa Timur,1827,56875
+Muncar,Jawa Timur,1827,56878
+Nganjuk,Jawa Timur,1827,56885
+Ngoro,Jawa Timur,1827,56888
+Ngunut,Jawa Timur,1827,56889
+Paciran,Jawa Timur,1827,56891
+Pakisaji,Jawa Timur,1827,56896
+Pamekasan,Jawa Timur,1827,56903
+Panarukan,Jawa Timur,1827,56906
+Pandaan,Jawa Timur,1827,56907
+Panji,Jawa Timur,1827,56913
+Pare,Jawa Timur,1827,56915
+Pasuruan,Jawa Timur,1827,56921
+Ponorogo,Jawa Timur,1827,56936
+Prigen,Jawa Timur,1827,56941
+Probolinggo,Jawa Timur,1827,56942
+Sampang,Jawa Timur,1827,56960
+Sidoarjo,Jawa Timur,1827,56975
+Singojuruh,Jawa Timur,1827,56983
+Singosari,Jawa Timur,1827,56984
+Situbondo,Jawa Timur,1827,56986
+Soko,Jawa Timur,1827,56992
+Srono,Jawa Timur,1827,56999
+Sumberpucung,Jawa Timur,1827,57004
+Sumenep,Jawa Timur,1827,57007
+Surabaya,Jawa Timur,1827,57011
+Tanggul,Jawa Timur,1827,57015
+Tanggulangin,Jawa Timur,1827,57016
+Trenggalek,Jawa Timur,1827,57039
+Tuban,Jawa Timur,1827,57042
+Tulangan Utara,Jawa Timur,1827,57044
+Tulungagung,Jawa Timur,1827,57045
+Wongsorejo,Jawa Timur,1827,57058
+Bengkayang,Kalimantan Barat,1806,150090
+Kapuas Hulu,Kalimantan Barat,1806,150091
+Kayong Utara,Kalimantan Barat,1806,150092
+Ketapang,Kalimantan Barat,1806,150093
+Kubu Raya,Kalimantan Barat,1806,150094
+Landak,Kalimantan Barat,1806,150095
+Manismata,Kalimantan Barat,1806,150096
+Melawi,Kalimantan Barat,1806,150097
+Mempawah,Kalimantan Barat,1806,150098
+Pemangkat,Kalimantan Barat,1806,150099
+Pontianak,Kalimantan Barat,1806,150100
+Sambas,Kalimantan Barat,1806,150101
+Sanggau,Kalimantan Barat,1806,150102
+Sekadau,Kalimantan Barat,1806,150103
+Singkawang,Kalimantan Barat,1806,150104
+Sintang,Kalimantan Barat,1806,150105
+Amuntai,Kalimantan Selatan,1819,56181
+Banjarmasin,Kalimantan Selatan,1819,56203
+Barabai,Kalimantan Selatan,1819,56207
+Kabupaten Balangan,Kalimantan Selatan,1819,56323
+Kabupaten Banjar,Kalimantan Selatan,1819,56335
+Kabupaten Barito Kuala,Kalimantan Selatan,1819,56341
+Kabupaten Hulu Sungai Selatan,Kalimantan Selatan,1819,56420
+Kabupaten Hulu Sungai Tengah,Kalimantan Selatan,1819,56421
+Kabupaten Hulu Sungai Utara,Kalimantan Selatan,1819,56422
+Kabupaten Kota Baru,Kalimantan Selatan,1819,56468
+Kabupaten Tabalong,Kalimantan Selatan,1819,56657
+Kabupaten Tanah Bumbu,Kalimantan Selatan,1819,56663
+Kabupaten Tanah Laut,Kalimantan Selatan,1819,56665
+Kabupaten Tapin,Kalimantan Selatan,1819,56673
+Kota Banjar Baru,Kalimantan Selatan,1819,56733
+Kota Banjarmasin,Kalimantan Selatan,1819,56734
+Martapura,Kalimantan Selatan,1819,56864
+Kabupaten Barito Selatan,Kalimantan Tengah,1794,56342
+Kabupaten Barito Timur,Kalimantan Tengah,1794,56343
+Kabupaten Barito Utara,Kalimantan Tengah,1794,56344
+Kabupaten Gunung Mas,Kalimantan Tengah,1794,56415
+Kabupaten Kapuas,Kalimantan Tengah,1794,56437
+Kabupaten Katingan,Kalimantan Tengah,1794,56443
+Kabupaten Kotawaringin Barat,Kalimantan Tengah,1794,56469
+Kabupaten Kotawaringin Timur,Kalimantan Tengah,1794,56470
+Kabupaten Lamandau,Kalimantan Tengah,1794,56482
+Kabupaten Murung Raya,Kalimantan Tengah,1794,56547
+Kabupaten Pulang Pisau,Kalimantan Tengah,1794,56601
+Kabupaten Seruyan,Kalimantan Tengah,1794,56625
+Kabupaten Sukamara,Kalimantan Tengah,1794,56646
+Kota Palangka Raya,Kalimantan Tengah,1794,56777
+Kualakapuas,Kalimantan Tengah,1794,56823
+Palangkaraya,Kalimantan Tengah,1794,56897
+Pangkalanbuun,Kalimantan Tengah,1794,56911
+Sampit,Kalimantan Tengah,1794,56961
+Balikpapan,Kalimantan Timur,1804,56190
+Bontang,Kalimantan Timur,1804,56229
+City of Balikpapan,Kalimantan Timur,1804,56254
+Kabupaten Berau,Kalimantan Timur,1804,56358
+Kabupaten Kutai Barat,Kalimantan Timur,1804,56476
+Kabupaten Kutai Kartanegara,Kalimantan Timur,1804,56477
+Kabupaten Kutai Timur,Kalimantan Timur,1804,56478
+Kabupaten Mahakam Hulu,Kalimantan Timur,1804,56507
+Kabupaten Paser,Kalimantan Timur,1804,56581
+Kabupaten Penajam Paser Utara,Kalimantan Timur,1804,56588
+Kota Balikpapan,Kalimantan Timur,1804,56728
+Kota Bontang,Kalimantan Timur,1804,56745
+Kota Samarinda,Kalimantan Timur,1804,56793
+Loa Janan,Kalimantan Timur,1804,56845
+Samarinda,Kalimantan Timur,1804,56959
+Kabupaten Bulungan,Kalimantan Utara,1824,56381
+Kabupaten Malinau,Kalimantan Utara,1824,56512
+Kabupaten Nunukan,Kalimantan Utara,1824,56562
+Kabupaten Tana Tidung,Kalimantan Utara,1824,56661
+Tanjung Selor,Kalimantan Utara,1824,57019
+Tarakan,Kalimantan Utara,1824,57023
+Kabupaten Bangka,Kepulauan Bangka Belitung,1820,56329
+Kabupaten Bangka Barat,Kepulauan Bangka Belitung,1820,56330
+Kabupaten Bangka Selatan,Kepulauan Bangka Belitung,1820,56331
+Kabupaten Bangka Tengah,Kepulauan Bangka Belitung,1820,56332
+Kabupaten Belitung,Kepulauan Bangka Belitung,1820,56350
+Kabupaten Belitung Timur,Kepulauan Bangka Belitung,1820,56351
+Kota Pangkal Pinang,Kepulauan Bangka Belitung,1820,56781
+Manggar,Kepulauan Bangka Belitung,1820,56859
+Muntok,Kepulauan Bangka Belitung,1820,56881
+Pangkalpinang,Kepulauan Bangka Belitung,1820,56912
+Sungailiat,Kepulauan Bangka Belitung,1820,57009
+Tanjung Pandan,Kepulauan Bangka Belitung,1820,57017
+Kabupaten Bintan,Kepulauan Riau,1807,56361
+Kabupaten Karimun,Kepulauan Riau,1807,56441
+Kabupaten Kepulauan Anambas,Kepulauan Riau,1807,56450
+Kabupaten Lingga,Kepulauan Riau,1807,56495
+Kabupaten Natuna,Kepulauan Riau,1807,56554
+Kijang,Kepulauan Riau,1807,56716
+Kota Batam,Kepulauan Riau,1807,56735
+Kota Tanjung Pinang,Kepulauan Riau,1807,56808
+Tanjung Pinang,Kepulauan Riau,1807,57018
+Bandar Lampung,Lampung,1811,56195
+Kabupaten Lampung Barat,Lampung,1811,56484
+Kabupaten Lampung Selatan,Lampung,1811,56485
+Kabupaten Lampung Tengah,Lampung,1811,56486
+Kabupaten Lampung Timur,Lampung,1811,56487
+Kabupaten Lampung Utara,Lampung,1811,56488
+Kabupaten Mesuji,Lampung,1811,56534
+Kabupaten Pesawaran,Lampung,1811,56590
+Kabupaten Pesisir Barat,Lampung,1811,56591
+Kabupaten Pringsewu,Lampung,1811,56599
+Kabupaten Tanggamus,Lampung,1811,56667
+Kabupaten Tulangbawang,Lampung,1811,56687
+Kabupaten Way Kanan,Lampung,1811,56691
+Kota Bandar Lampung,Lampung,1811,56730
+Kota Metro,Lampung,1811,56771
+Kotabumi,Lampung,1811,56817
+Metro,Lampung,1811,56871
+Terbanggi Besar,Lampung,1811,57031
+Amahai,Maluku,1800,56175
+Ambon,Maluku,1800,56178
+Kabupaten Buru,Maluku,1800,56384
+Kabupaten Buru Selatan,Maluku,1800,56385
+Kabupaten Kepulauan Aru,Maluku,1800,56451
+Kabupaten Maluku Barat Daya,Maluku,1800,56513
+Kabupaten Maluku Tengah,Maluku,1800,56514
+Kabupaten Maluku Tenggara,Maluku,1800,56515
+Kabupaten Maluku Tenggara Barat,Maluku,1800,56516
+Kabupaten Seram Bagian Barat,Maluku,1800,56621
+Kabupaten Seram Bagian Timur,Maluku,1800,56622
+Kota Ambon,Maluku,1800,56727
+Kota Tual,Maluku,1800,56815
+Tual,Maluku,1800,57041
+East Halmahera Regency,Maluku Utara,1801,56271
+Kabupaten Halmahera Barat,Maluku Utara,1801,56416
+Kabupaten Halmahera Selatan,Maluku Utara,1801,56417
+Kabupaten Halmahera Tengah,Maluku Utara,1801,56418
+Kabupaten Halmahera Utara,Maluku Utara,1801,56419
+Kabupaten Kepulauan Sula,Maluku Utara,1801,56455
+Kabupaten Pulau Morotai,Maluku Utara,1801,56602
+Kabupaten Pulau Taliabu,Maluku Utara,1801,56603
+Kota Ternate,Maluku Utara,1801,56812
+Kota Tidore Kepulauan,Maluku Utara,1801,56813
+Sofifi,Maluku Utara,1801,56990
+Ternate,Maluku Utara,1801,57032
+Tobelo,Maluku Utara,1801,57033
+Bima,Nusa Tenggara Barat,1814,56221
+Dompu,Nusa Tenggara Barat,1814,56267
+Gili Air,Nusa Tenggara Barat,1814,56281
+Kabupaten Bima,Nusa Tenggara Barat,1814,56360
+Kabupaten Dompu,Nusa Tenggara Barat,1814,56400
+Kabupaten Lombok Barat,Nusa Tenggara Barat,1814,56496
+Kabupaten Lombok Tengah,Nusa Tenggara Barat,1814,56497
+Kabupaten Lombok Timur,Nusa Tenggara Barat,1814,56498
+Kabupaten Lombok Utara,Nusa Tenggara Barat,1814,56499
+Kabupaten Sumbawa,Nusa Tenggara Barat,1814,56652
+Kabupaten Sumbawa Barat,Nusa Tenggara Barat,1814,56653
+Kota Bima,Nusa Tenggara Barat,1814,56740
+Kota Mataram,Nusa Tenggara Barat,1814,56769
+Labuan Lombok,Nusa Tenggara Barat,1814,56831
+Lembar,Nusa Tenggara Barat,1814,56843
+Mataram,Nusa Tenggara Barat,1814,56865
+Pemenang,Nusa Tenggara Barat,1814,56931
+Pototano,Nusa Tenggara Barat,1814,56938
+Praya,Nusa Tenggara Barat,1814,56940
+Senggigi,Nusa Tenggara Barat,1814,56966
+Sumbawa Besar,Nusa Tenggara Barat,1814,57002
+Atambua,Nusa Tenggara Timur,1818,56184
+Ende,Nusa Tenggara Timur,1818,56272
+Kabupaten Alor,Nusa Tenggara Timur,1818,56319
+Kabupaten Belu,Nusa Tenggara Timur,1818,56352
+Kabupaten Ende,Nusa Tenggara Timur,1818,56403
+Kabupaten Flores Timur,Nusa Tenggara Timur,1818,56406
+Kabupaten Kupang,Nusa Tenggara Timur,1818,56475
+Kabupaten Lembata,Nusa Tenggara Timur,1818,56493
+Kabupaten Malaka,Nusa Tenggara Timur,1818,56510
+Kabupaten Manggarai,Nusa Tenggara Timur,1818,56524
+Kabupaten Manggarai Barat,Nusa Tenggara Timur,1818,56525
+Kabupaten Manggarai Timur,Nusa Tenggara Timur,1818,56526
+Kabupaten Nagekeo,Nusa Tenggara Timur,1818,56553
+Kabupaten Ngada,Nusa Tenggara Timur,1818,56556
+Kabupaten Rote Ndao,Nusa Tenggara Timur,1818,56613
+Kabupaten Sabu Raijua,Nusa Tenggara Timur,1818,56614
+Kabupaten Sikka,Nusa Tenggara Timur,1818,56632
+Kabupaten Sumba Barat,Nusa Tenggara Timur,1818,56648
+Kabupaten Sumba Barat Daya,Nusa Tenggara Timur,1818,56649
+Kabupaten Sumba Tengah,Nusa Tenggara Timur,1818,56650
+Kabupaten Sumba Timur,Nusa Tenggara Timur,1818,56651
+Kabupaten Timor Tengah Selatan,Nusa Tenggara Timur,1818,56680
+Kabupaten Timor Tengah Utara,Nusa Tenggara Timur,1818,56681
+Kefamenanu,Nusa Tenggara Timur,1818,56710
+Komodo,Nusa Tenggara Timur,1818,56721
+Kota Kupang,Nusa Tenggara Timur,1818,56760
+Kupang,Nusa Tenggara Timur,1818,56826
+Labuan Bajo,Nusa Tenggara Timur,1818,56830
+Maumere,Nusa Tenggara Timur,1818,56866
+Naisano Dua,Nusa Tenggara Timur,1818,56883
+Ruteng,Nusa Tenggara Timur,1818,56956
+Soe,Nusa Tenggara Timur,1818,56989
+Waingapu,Nusa Tenggara Timur,1818,57048
+Abepura,Papua,1798,56173
+Biak,Papua,1798,56220
+Insrom,Papua,1798,56292
+Jayapura,Papua,1798,56299
+Kabupaten Asmat,Papua,1798,56321
+Kabupaten Biak Numfor,Papua,1798,56359
+Kabupaten Boven Digoel,Papua,1798,56376
+Kabupaten Deiyai,Papua,1798,56395
+Kabupaten Dogiyai,Papua,1798,56399
+Kabupaten Intan Jaya,Papua,1798,56427
+Kabupaten Jayapura,Papua,1798,56428
+Kabupaten Jayawijaya,Papua,1798,56429
+Kabupaten Keerom,Papua,1798,56447
+Kabupaten Kepulauan Yapen,Papua,1798,56457
+Kabupaten Lanny Jaya,Papua,1798,56490
+Kabupaten Mamberamo Raya,Papua,1798,56518
+Kabupaten Mamberamo Tengah,Papua,1798,56519
+Kabupaten Mappi,Papua,1798,56529
+Kabupaten Merauke,Papua,1798,56533
+Kabupaten Mimika,Papua,1798,56535
+Kabupaten Nabire,Papua,1798,56551
+Kabupaten Nduga,Papua,1798,56555
+Kabupaten Paniai,Papua,1798,56577
+Kabupaten Pegunungan Bintang,Papua,1798,56584
+Kabupaten Puncak Jaya,Papua,1798,56604
+Kabupaten Sarmi,Papua,1798,56617
+Kabupaten Supiori,Papua,1798,56656
+Kabupaten Tolikara,Papua,1798,56683
+Kabupaten Waropen,Papua,1798,56690
+Kabupaten Yahukimo,Papua,1798,56694
+Kabupaten Yalimo,Papua,1798,56695
+Kota Jayapura,Papua,1798,56756
+Nabire,Papua,1798,56882
+Kabupaten Fakfak,Papua Barat,1799,56405
+Kabupaten Kaimana,Papua Barat,1799,56435
+Kabupaten Manokwari,Papua Barat,1799,56527
+Kabupaten Manokwari Selatan,Papua Barat,1799,56528
+Kabupaten Maybrat,Papua Barat,1799,56531
+Kabupaten Raja Ampat,Papua Barat,1799,56608
+Kabupaten Sorong,Papua Barat,1799,56641
+Kabupaten Sorong Selatan,Papua Barat,1799,56642
+Kabupaten Tambrauw,Papua Barat,1799,56660
+Kabupaten Teluk Bintuni,Papua Barat,1799,56677
+Kabupaten Teluk Wondama,Papua Barat,1799,56678
+Kota Sorong,Papua Barat,1799,56799
+Manokwari,Papua Barat,1799,56860
+Sorong,Papua Barat,1799,56995
+Balaipungut,Riau,1809,56188
+Batam,Riau,1809,56208
+Dumai,Riau,1809,56270
+Kabupaten Bengkalis,Riau,1809,56354
+Kabupaten Indragiri Hilir,Riau,1809,56424
+Kabupaten Indragiri Hulu,Riau,1809,56425
+Kabupaten Kampar,Riau,1809,56436
+Kabupaten Kepulauan Meranti,Riau,1809,56453
+Kabupaten Kuantan Singingi,Riau,1809,56471
+Kabupaten Pelalawan,Riau,1809,56586
+Kabupaten Rokan Hilir,Riau,1809,56611
+Kabupaten Rokan Hulu,Riau,1809,56612
+Kabupaten Siak,Riau,1809,56626
+Kota Dumai,Riau,1809,56752
+Kota Pekanbaru,Riau,1809,56787
+Pekanbaru,Riau,1809,56927
+Kabupaten Majene,Sulawesi Barat,1817,56509
+Kabupaten Mamasa,Sulawesi Barat,1817,56517
+Kabupaten Mamuju,Sulawesi Barat,1817,56520
+Kabupaten Mamuju Tengah,Sulawesi Barat,1817,56521
+Kabupaten Mamuju Utara,Sulawesi Barat,1817,56522
+Kabupaten Polewali Mandar,Sulawesi Barat,1817,56596
+Majene,Sulawesi Barat,1817,56854
+Mamuju,Sulawesi Barat,1817,56857
+Polewali,Sulawesi Barat,1817,56935
+Galesong,Sulawesi Selatan,1795,56273
+Kabupaten Bantaeng,Sulawesi Selatan,1795,56337
+Kabupaten Barru,Sulawesi Selatan,1795,56345
+Kabupaten Bone,Sulawesi Selatan,1795,56374
+Kabupaten Bulukumba,Sulawesi Selatan,1795,56380
+Kabupaten Enrekang,Sulawesi Selatan,1795,56404
+Kabupaten Gowa,Sulawesi Selatan,1795,56412
+Kabupaten Jeneponto,Sulawesi Selatan,1795,56432
+Kabupaten Luwu,Sulawesi Selatan,1795,56501
+Kabupaten Luwu Timur,Sulawesi Selatan,1795,56502
+Kabupaten Luwu Utara,Sulawesi Selatan,1795,56503
+Kabupaten Maros,Sulawesi Selatan,1795,56530
+Kabupaten Pangkajene Dan Kepulauan,Sulawesi Selatan,1795,56576
+Kabupaten Pinrang,Sulawesi Selatan,1795,56594
+Kabupaten Sidenreng Rappang,Sulawesi Selatan,1795,56628
+Kabupaten Sinjai,Sulawesi Selatan,1795,56635
+Kabupaten Soppeng,Sulawesi Selatan,1795,56640
+Kabupaten Takalar,Sulawesi Selatan,1795,56659
+Kabupaten Tana Toraja,Sulawesi Selatan,1795,56662
+Kabupaten Toraja Utara,Sulawesi Selatan,1795,56684
+Kabupaten Wajo,Sulawesi Selatan,1795,56689
+Kota Makassar,Sulawesi Selatan,1795,56766
+Kota Palopo,Sulawesi Selatan,1795,56779
+Kota Parepare,Sulawesi Selatan,1795,56782
+Makassar,Sulawesi Selatan,1795,56855
+Maros,Sulawesi Selatan,1795,56863
+Palopo,Sulawesi Selatan,1795,56900
+Parepare,Sulawesi Selatan,1795,56916
+Rantepao,Sulawesi Selatan,1795,56952
+Selayar Islands Regency,Sulawesi Selatan,1795,56963
+Sengkang,Sulawesi Selatan,1795,56967
+Sinjai,Sulawesi Selatan,1795,56985
+Watampone,Sulawesi Selatan,1795,57052
+Kabupaten Banggai,Sulawesi Tengah,1813,56326
+Kabupaten Banggai Kepulauan,Sulawesi Tengah,1813,56327
+Kabupaten Banggai Laut,Sulawesi Tengah,1813,56328
+Kabupaten Buol,Sulawesi Tengah,1813,56383
+Kabupaten Donggala,Sulawesi Tengah,1813,56401
+Kabupaten Morowali Utara,Sulawesi Tengah,1813,56541
+Kabupaten Parigi Moutong,Sulawesi Tengah,1813,56578
+Kabupaten Poso,Sulawesi Tengah,1813,56598
+Kabupaten Sigi,Sulawesi Tengah,1813,56630
+Kabupaten Toli-Toli,Sulawesi Tengah,1813,56682
+Kota Palu,Sulawesi Tengah,1813,56780
+Luwuk,Sulawesi Tengah,1813,56849
+Morowali Regency,Sulawesi Tengah,1813,56876
+Palu,Sulawesi Tengah,1813,56901
+Poso,Sulawesi Tengah,1813,56937
+Tojo Una-Una Regency,Sulawesi Tengah,1813,57034
+Kabupaten Bombana,Sulawesi Tenggara,1796,56372
+Kabupaten Buton,Sulawesi Tenggara,1796,56386
+Kabupaten Buton Selatan,Sulawesi Tenggara,1796,56387
+Kabupaten Buton Tengah,Sulawesi Tenggara,1796,56388
+Kabupaten Buton Utara,Sulawesi Tenggara,1796,56389
+Kabupaten Kolaka,Sulawesi Tenggara,1796,56461
+Kabupaten Kolaka Timur,Sulawesi Tenggara,1796,56462
+Kabupaten Kolaka Utara,Sulawesi Tenggara,1796,56463
+Kabupaten Konawe,Sulawesi Tenggara,1796,56464
+Kabupaten Konawe Kepulauan,Sulawesi Tenggara,1796,56465
+Kabupaten Konawe Selatan,Sulawesi Tenggara,1796,56466
+Kabupaten Konawe Utara,Sulawesi Tenggara,1796,56467
+Kabupaten Muna,Sulawesi Tenggara,1796,56545
+Kabupaten Muna Barat,Sulawesi Tenggara,1796,56546
+Katabu,Sulawesi Tenggara,1796,56703
+Kendari,Sulawesi Tenggara,1796,56712
+Kota Baubau,Sulawesi Tenggara,1796,56737
+Kota Kendari,Sulawesi Tenggara,1796,56758
+Wakatobi Regency,Sulawesi Tenggara,1796,57049
+Kabupaten Bolaang Mongondow,Sulawesi Utara,1808,56368
+Kabupaten Bolaang Mongondow Selatan,Sulawesi Utara,1808,56369
+Kabupaten Bolaang Mongondow Timur,Sulawesi Utara,1808,56370
+Kabupaten Bolaang Mongondow Utara,Sulawesi Utara,1808,56371
+Kabupaten Kepulauan Sangihe,Sulawesi Utara,1808,56454
+Kabupaten Kepulauan Talaud,Sulawesi Utara,1808,56456
+Kabupaten Minahasa,Sulawesi Utara,1808,56536
+Kabupaten Minahasa Selatan,Sulawesi Utara,1808,56537
+Kabupaten Minahasa Tenggara,Sulawesi Utara,1808,56538
+Kabupaten Minahasa Utara,Sulawesi Utara,1808,56539
+Kabupaten Siau Tagulandang Biaro,Sulawesi Utara,1808,56627
+Kota Bitung,Sulawesi Utara,1808,56742
+Kota Kotamobagu,Sulawesi Utara,1808,56759
+Kota Manado,Sulawesi Utara,1808,56768
+Kota Tomohon,Sulawesi Utara,1808,56814
+"Laikit, Laikit II (Dimembe)",Sulawesi Utara,1808,56835
+Manado,Sulawesi Utara,1808,56858
+Tomohon,Sulawesi Utara,1808,57035
+Tondano,Sulawesi Utara,1808,57037
+Bukittinggi,Sumatera Barat,1828,56234
+Kabupaten Agam,Sumatera Barat,1828,56318
+Kabupaten Dharmasraya,Sumatera Barat,1828,56398
+Kabupaten Kepulauan Mentawai,Sumatera Barat,1828,56452
+Kabupaten Lima Puluh Kota,Sumatera Barat,1828,56494
+Kabupaten Padang Pariaman,Sumatera Barat,1828,56571
+Kabupaten Pasaman,Sumatera Barat,1828,56579
+Kabupaten Pasaman Barat,Sumatera Barat,1828,56580
+Kabupaten Pesisir Selatan,Sumatera Barat,1828,56592
+Kabupaten Sijunjung,Sumatera Barat,1828,56631
+Kabupaten Solok,Sumatera Barat,1828,56638
+Kabupaten Solok Selatan,Sumatera Barat,1828,56639
+Kabupaten Tanah Datar,Sumatera Barat,1828,56664
+Kota Bukittinggi,Sumatera Barat,1828,56746
+Kota Padang,Sumatera Barat,1828,56773
+Kota Padang Panjang,Sumatera Barat,1828,56774
+Kota Pariaman,Sumatera Barat,1828,56783
+Kota Payakumbuh,Sumatera Barat,1828,56785
+Kota Sawah Lunto,Sumatera Barat,1828,56794
+Kota Solok,Sumatera Barat,1828,56798
+Padang,Sumatera Barat,1828,56893
+Pariaman,Sumatera Barat,1828,56917
+Payakumbuh,Sumatera Barat,1828,56923
+Sijunjung,Sumatera Barat,1828,56977
+Solok,Sumatera Barat,1828,56993
+Baturaja,Sumatera Selatan,1816,56212
+Kabupaten Empat Lawang,Sumatera Selatan,1816,56402
+Kabupaten Muara Enim,Sumatera Selatan,1816,56542
+Kabupaten Musi Banyuasin,Sumatera Selatan,1816,56548
+Kabupaten Musi Rawas,Sumatera Selatan,1816,56549
+Kabupaten Musi Rawas Utara,Sumatera Selatan,1816,56550
+Kabupaten Ogan Ilir,Sumatera Selatan,1816,56563
+Kabupaten Ogan Komering Ilir,Sumatera Selatan,1816,56564
+Kabupaten Ogan Komering Ulu,Sumatera Selatan,1816,56565
+Kabupaten Ogan Komering Ulu Selatan,Sumatera Selatan,1816,56566
+Kabupaten Ogan Komering Ulu Timur,Sumatera Selatan,1816,56567
+Kabupaten Penukal Abab Lematang Ilir,Sumatera Selatan,1816,56589
+Kota Lubuklinggau,Sumatera Selatan,1816,56763
+Kota Pagar Alam,Sumatera Selatan,1816,56776
+Kota Palembang,Sumatera Selatan,1816,56778
+Kota Prabumulih,Sumatera Selatan,1816,56789
+Lahat,Sumatera Selatan,1816,56833
+Lahat Regency,Sumatera Selatan,1816,56834
+Lubuklinggau,Sumatera Selatan,1816,56847
+Pagar Alam,Sumatera Selatan,1816,56895
+Palembang,Sumatera Selatan,1816,56898
+Prabumulih,Sumatera Selatan,1816,56939
+Tanjungagung,Sumatera Selatan,1816,57020
+Ambarita,Sumatera Utara,1792,56177
+Bandar,Sumatera Utara,1792,56194
+Belawan,Sumatera Utara,1792,56216
+Berastagi,Sumatera Utara,1792,56218
+Binjai,Sumatera Utara,1792,56222
+Deli Tua,Sumatera Utara,1792,56261
+Gunungsitoli,Sumatera Utara,1792,56290
+Kabanjahe,Sumatera Utara,1792,56306
+Kabupaten Asahan,Sumatera Utara,1792,56320
+Kabupaten Batu Bara,Sumatera Utara,1792,56348
+Kabupaten Dairi,Sumatera Utara,1792,56394
+Kabupaten Deli Serdang,Sumatera Utara,1792,56396
+Kabupaten Humbang Hasundutan,Sumatera Utara,1792,56423
+Kabupaten Karo,Sumatera Utara,1792,56442
+Kabupaten Labuhan Batu,Sumatera Utara,1792,56479
+Kabupaten Labuhan Batu Selatan,Sumatera Utara,1792,56480
+Kabupaten Labuhan Batu Utara,Sumatera Utara,1792,56481
+Kabupaten Langkat,Sumatera Utara,1792,56489
+Kabupaten Mandailing Natal,Sumatera Utara,1792,56523
+Kabupaten Nias,Sumatera Utara,1792,56559
+Kabupaten Nias Barat,Sumatera Utara,1792,56560
+Kabupaten Nias Utara,Sumatera Utara,1792,56561
+Kabupaten Padang Lawas,Sumatera Utara,1792,56569
+Kabupaten Padang Lawas Utara,Sumatera Utara,1792,56570
+Kabupaten Pakpak Bharat,Sumatera Utara,1792,56572
+Kabupaten Samosir,Sumatera Utara,1792,56615
+Kabupaten Serdang Bedagai,Sumatera Utara,1792,56624
+Kabupaten Simalungun,Sumatera Utara,1792,56633
+Kabupaten Tapanuli Selatan,Sumatera Utara,1792,56670
+Kabupaten Tapanuli Tengah,Sumatera Utara,1792,56671
+Kabupaten Tapanuli Utara,Sumatera Utara,1792,56672
+Kisaran,Sumatera Utara,1792,56717
+Kota Binjai,Sumatera Utara,1792,56741
+Kota Gunungsitoli,Sumatera Utara,1792,56754
+Kota Medan,Sumatera Utara,1792,56770
+Kota Padangsidimpuan,Sumatera Utara,1792,56775
+Kota Pematang Siantar,Sumatera Utara,1792,56788
+Kota Sibolga,Sumatera Utara,1792,56797
+Kota Tanjung Balai,Sumatera Utara,1792,56807
+Kota Tebing Tinggi,Sumatera Utara,1792,56810
+Labuhan Deli,Sumatera Utara,1792,56832
+Medan,Sumatera Utara,1792,56867
+Padangsidempuan,Sumatera Utara,1792,56894
+Pangkalan Brandan,Sumatera Utara,1792,56910
+Parapat,Sumatera Utara,1792,56914
+Pekan Bahapal,Sumatera Utara,1792,56926
+Pematangsiantar,Sumatera Utara,1792,56930
+Perbaungan,Sumatera Utara,1792,56932
+Percut,Sumatera Utara,1792,56933
+Rantauprapat,Sumatera Utara,1792,56951
+Sibolga,Sumatera Utara,1792,56973
+Stabat,Sumatera Utara,1792,57000
+Sunggal,Sumatera Utara,1792,57010
+Tanjungbalai,Sumatera Utara,1792,57021
+Tanjungtiram,Sumatera Utara,1792,57022
+Tebingtinggi,Sumatera Utara,1792,57027
+Teluk Nibung,Sumatera Utara,1792,57029
+Tomok Bolon,Sumatera Utara,1792,57036
+Tongging,Sumatera Utara,1792,57038
+Tuktuk Sonak,Sumatera Utara,1792,57043
