@@ -1,4 +1,9 @@
 # Table Information
+## ERD Chart
+
+![image](https://user-images.githubusercontent.com/65985731/182518296-4f6886e6-1136-4d5b-9139-1052fe9e926b.png)
+
+
 ## Table Countries
 | Attribute          | Description                                               |
 |--------------------|-----------------------------------------------------------|
@@ -30,3 +35,5 @@
 | division_id    | identification number for division                                           |
 | name           | name of the subdivision, usualy name of cities or village in english         |
 | local name     | name of the subdivision, usualy name of cities or village in local languange |
+
+
